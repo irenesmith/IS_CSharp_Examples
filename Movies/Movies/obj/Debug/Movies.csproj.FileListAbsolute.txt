@@ -1,0 +1,2 @@
+C:\Users\Irene\Documents\GitHub\Movies\Movies\bin\Debug\Movies.exe.config
+C:\Users\Irene\Documents\GitHub\IS_CSharp_Examples\Movies\Movies\bin\Debug\Movies.exe.config
