@@ -1,0 +1,24 @@
+﻿<Window x:Class="ISContacts.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Contact Manager" Height="600" Width="800"
+        Icon="Images/Address Book.png" Background="AntiqueWhite">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="120" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <StackPanel Orientation="Vertical">
+            <TextBlock Text="Tasks" Style="{StaticResource TitleBlock}"/>
+            <Button Content="Add Contact" Style="{StaticResource NavButton}" />
+            <Button Content="Search" Style="{StaticResource NavButton}" />
+            <Button Content="Exit" Style="{StaticResource NavButton}" />
+        </StackPanel>
+        <TabControl Grid.Column="1" Margin="10,0,0,0">
+            <TabItem Header="Contacts" FontFamily="Trebuchet"></TabItem>
+            <DataGrid AutoGenerateColumns="False">
+                
+            </DataGrid>
+        </TabControl>
+    </Grid>
+</Window>
