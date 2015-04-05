@@ -18,3 +18,6 @@ c:\users\irene\documents\visual studio 2013\Projects\ISContacts\ISContacts\obj\D
 c:\users\irene\documents\visual studio 2013\Projects\ISContacts\ISContacts\obj\Debug\ISContacts.exe
 c:\users\irene\documents\visual studio 2013\Projects\ISContacts\ISContacts\obj\Debug\ISContacts.pdb
 C:\Users\Irene\Documents\Visual Studio 2013\Projects\ISContacts\ISContacts\obj\Debug\App.baml
+C:\Users\Irene\Documents\GitHub\IS_CSharp_Examples\ISContacts\ISContacts\bin\Debug\ISContacts.exe.config
+C:\Users\Irene\Documents\GitHub\IS_CSharp_Examples\ISContacts\ISContacts\obj\Debug\ISContacts.exe
+C:\Users\Irene\Documents\GitHub\IS_CSharp_Examples\ISContacts\ISContacts\obj\Debug\ISContacts.pdb

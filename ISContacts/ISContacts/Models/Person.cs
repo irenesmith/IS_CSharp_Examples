@@ -19,7 +19,7 @@ namespace ISContacts.Models
         {
             get
             {
-                return _FirstName;
+                return this._FirstName;
             }
 
             set
@@ -36,7 +36,7 @@ namespace ISContacts.Models
         {
             get
             {
-                return _MiddleName;
+                return this._MiddleName;
             }
 
             set
@@ -53,7 +53,7 @@ namespace ISContacts.Models
         {
             get
             {
-                return _LastName;
+                return this._LastName;
             }
 
             set
@@ -70,7 +70,7 @@ namespace ISContacts.Models
         {
             get
             {
-                return _PhoneNumbers;
+                return this._PhoneNumbers;
             }
         }
 
@@ -78,7 +78,7 @@ namespace ISContacts.Models
         {
             get
             {
-                return _Addresses;
+                return this._Addresses;
             }
         }
 
@@ -96,8 +96,8 @@ namespace ISContacts.Models
 
         public Person(string firstName, string lastName, Phone phone, Address address) : this(firstName, lastName)
         {
-            PhoneNumbers.Add(phone);
-            Addresses.Add(address);
+            this.PhoneNumbers.Add(phone);
+            this.Addresses.Add(address);
         }
 
         public string FullName()

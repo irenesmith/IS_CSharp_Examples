@@ -66,7 +66,6 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Contact.cs" />
     <Compile Include="Models\Address.cs" />
     <Compile Include="Models\ContactBase.cs" />
     <Compile Include="Models\Person.cs" />
