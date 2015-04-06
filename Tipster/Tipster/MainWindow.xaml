@@ -1,0 +1,56 @@
+﻿<Window x:Class="Tipster.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Tipster - Tip Calculator" SizeToContent="WidthAndHeight"
+        FontFamily="Arial" FontSize="12"
+        Background="AntiqueWhite"
+        FocusManager.FocusedElement="{Binding ElementName=txtMeal}">
+    <Grid Margin="15">
+        <Border BorderBrush="DarkSeaGreen" BorderThickness="5">
+            <Border Margin="5" BorderBrush="SeaGreen" BorderThickness="2">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="75"/>
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+                    <TextBlock Style="{StaticResource WindowTitle}" Grid.Row="0" Grid.Column="0" Text="Tipster" />
+                    <TextBlock x:Name="lblError" Grid.Row="0" Grid.Column="1" Text="" Foreground="Tomato" />
+                    <Grid Margin="20,5" Grid.Row="1" Grid.Column="0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition />
+                            <ColumnDefinition />
+                        </Grid.ColumnDefinitions>
+                        <!-- Label Definitions -->
+                        <TextBlock Style="{StaticResource FormLabel}" Grid.Row="0" Grid.Column="0" Text="Meal Subtotal: " />
+                        <TextBlock Style="{StaticResource FormLabel}" Grid.Row="1" Grid.Column="0" Text="Tip Percent %: " />
+                        <TextBlock Style="{StaticResource FormLabel}" Grid.Row="2" Grid.Column="0" Text="Number of Diners: " />
+                        <TextBlock Style="{StaticResource FormLabel}" Grid.Row="3" Grid.Column="0" Text="Tip Amount: " />
+                        <TextBlock Style="{StaticResource FormLabel}" Grid.Row="4" Grid.Column="0" Text="Total Bill: " />
+                        <TextBlock Style="{StaticResource FormLabel}" Grid.Row="5" Grid.Column="0" Text="Price per diner: " />
+                        
+                        <!-- Text Box Definitions -->
+                        <TextBox x:Name="txtMeal" TabIndex="0" Style="{StaticResource FormTextBox}" Grid.Row="0" Grid.Column="1" GotFocus="OnTextBoxFocus"></TextBox>
+                        <TextBox x:Name="txtTipPercent" TabIndex="1" Style="{StaticResource FormTextBox}" Grid.Row="1" Grid.Column="1" GotFocus="OnTextBoxFocus">10</TextBox>
+                        <TextBox x:Name="txtNumDiners" TabIndex="2" Style="{StaticResource FormTextBox}" Grid.Row="2" Grid.Column="1" GotFocus="OnTextBoxFocus">1</TextBox>
+                        <TextBox x:Name="txtTipAmount" Style="{StaticResource FormTextBox}" Grid.Row="3" Grid.Column="1" IsEnabled="False" GotFocus="OnTextBoxFocus"></TextBox>
+                        <TextBox x:Name="txtTotalBill" Style="{StaticResource FormTextBox}" Grid.Row="4" Grid.Column="1" IsEnabled="False" GotFocus="OnTextBoxFocus"></TextBox>
+                        <TextBox x:Name="txtPricePerDiner" Style="{StaticResource FormTextBox}" Grid.Row="5" Grid.Column="1" IsEnabled="False" GotFocus="OnTextBoxFocus"></TextBox>
+                        <StackPanel Grid.Row="6" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Center">
+                            <Button x:Name="cmdCalculate" Grid.Row="6" Grid.Column="0" Padding="5" Margin="3" Height="30" Width="64" Click="cmdCalculate_Click">Calculate</Button>
+                            <Button x:Name="cmdReset" Grid.Row="6" Grid.Column="1" Padding="5" Margin="3" Height="30" Width="64" Click="cmdReset_Click">Reset</Button>
+                        </StackPanel>
+                    </Grid>
+                </Grid>
+            </Border>
+        </Border>
+    </Grid>
+</Window>

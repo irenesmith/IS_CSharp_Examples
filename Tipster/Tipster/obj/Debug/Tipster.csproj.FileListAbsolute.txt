@@ -1,0 +1,14 @@
+c:\users\irene\documents\visual studio 2013\Projects\Tipster\Tipster\bin\Debug\Tipster.exe.config
+c:\users\irene\documents\visual studio 2013\Projects\Tipster\Tipster\bin\Debug\Tipster.exe
+c:\users\irene\documents\visual studio 2013\Projects\Tipster\Tipster\bin\Debug\Tipster.pdb
+c:\users\irene\documents\visual studio 2013\Projects\Tipster\Tipster\obj\Debug\Tipster.csprojResolveAssemblyReference.cache
+c:\users\irene\documents\visual studio 2013\Projects\Tipster\Tipster\obj\Debug\MainWindow.baml
+c:\users\irene\documents\visual studio 2013\Projects\Tipster\Tipster\obj\Debug\App.baml
+c:\users\irene\documents\visual studio 2013\Projects\Tipster\Tipster\obj\Debug\MainWindow.g.cs
+c:\users\irene\documents\visual studio 2013\Projects\Tipster\Tipster\obj\Debug\App.g.cs
+c:\users\irene\documents\visual studio 2013\Projects\Tipster\Tipster\obj\Debug\Tipster_MarkupCompile.cache
+c:\users\irene\documents\visual studio 2013\Projects\Tipster\Tipster\obj\Debug\Tipster.g.resources
+c:\users\irene\documents\visual studio 2013\Projects\Tipster\Tipster\obj\Debug\Tipster.Properties.Resources.resources
+c:\users\irene\documents\visual studio 2013\Projects\Tipster\Tipster\obj\Debug\Tipster.csproj.GenerateResource.Cache
+c:\users\irene\documents\visual studio 2013\Projects\Tipster\Tipster\obj\Debug\Tipster.exe
+c:\users\irene\documents\visual studio 2013\Projects\Tipster\Tipster\obj\Debug\Tipster.pdb
