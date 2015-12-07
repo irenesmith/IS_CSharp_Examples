@@ -23,7 +23,7 @@ namespace FileExample
         private void FormMain_Load(object sender, EventArgs e)
         {
             // Temporarily hardwired for testing purposes.
-            _FileName = @"D:\Win8Backups\OurMedia\movies.txt";
+            _FileName = @"movies.txt";
 
             _Movies = new MovieList(_FileName);
         }

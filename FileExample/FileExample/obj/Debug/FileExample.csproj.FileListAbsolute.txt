@@ -7,3 +7,12 @@ c:\users\irene\documents\visual studio 2013\Projects\FileExample\FileExample\bin
 c:\users\irene\documents\visual studio 2013\Projects\FileExample\FileExample\bin\Debug\FileExample.pdb
 c:\users\irene\documents\visual studio 2013\Projects\FileExample\FileExample\obj\Debug\FileExample.exe
 c:\users\irene\documents\visual studio 2013\Projects\FileExample\FileExample\obj\Debug\FileExample.pdb
+C:\Users\Irene\Documents\Visual Studio 2015\Projects\IS_CSharp_Examples\FileExample\FileExample\bin\Debug\FileExample.exe.config
+C:\Users\Irene\Documents\Visual Studio 2015\Projects\IS_CSharp_Examples\FileExample\FileExample\obj\Debug\FileExample.exe
+C:\Users\Irene\Documents\Visual Studio 2015\Projects\IS_CSharp_Examples\FileExample\FileExample\obj\Debug\FileExample.pdb
+C:\Users\Irene\Documents\Visual Studio 2015\Projects\IS_CSharp_Examples\FileExample\FileExample\bin\Debug\FileExample.exe
+C:\Users\Irene\Documents\Visual Studio 2015\Projects\IS_CSharp_Examples\FileExample\FileExample\bin\Debug\FileExample.pdb
+C:\Users\Irene\Documents\Visual Studio 2015\Projects\IS_CSharp_Examples\FileExample\FileExample\obj\Debug\FileExample.csprojResolveAssemblyReference.cache
+C:\Users\Irene\Documents\Visual Studio 2015\Projects\IS_CSharp_Examples\FileExample\FileExample\obj\Debug\FileExample.FormMain.resources
+C:\Users\Irene\Documents\Visual Studio 2015\Projects\IS_CSharp_Examples\FileExample\FileExample\obj\Debug\FileExample.Properties.Resources.resources
+C:\Users\Irene\Documents\Visual Studio 2015\Projects\IS_CSharp_Examples\FileExample\FileExample\obj\Debug\FileExample.csproj.GenerateResource.Cache
