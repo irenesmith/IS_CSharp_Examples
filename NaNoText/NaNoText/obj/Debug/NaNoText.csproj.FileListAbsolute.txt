@@ -1,0 +1,9 @@
+C:\Users\Irene\Documents\Visual Studio 2015\Projects\NaNoText\NaNoText\bin\Debug\NaNoText.exe.config
+C:\Users\Irene\Documents\Visual Studio 2015\Projects\NaNoText\NaNoText\bin\Debug\NaNoText.exe
+C:\Users\Irene\Documents\Visual Studio 2015\Projects\NaNoText\NaNoText\bin\Debug\NaNoText.pdb
+C:\Users\Irene\Documents\Visual Studio 2015\Projects\NaNoText\NaNoText\obj\Debug\NaNoText.csprojResolveAssemblyReference.cache
+C:\Users\Irene\Documents\Visual Studio 2015\Projects\NaNoText\NaNoText\obj\Debug\NaNoText.FormMain.resources
+C:\Users\Irene\Documents\Visual Studio 2015\Projects\NaNoText\NaNoText\obj\Debug\NaNoText.Properties.Resources.resources
+C:\Users\Irene\Documents\Visual Studio 2015\Projects\NaNoText\NaNoText\obj\Debug\NaNoText.csproj.GenerateResource.Cache
+C:\Users\Irene\Documents\Visual Studio 2015\Projects\NaNoText\NaNoText\obj\Debug\NaNoText.exe
+C:\Users\Irene\Documents\Visual Studio 2015\Projects\NaNoText\NaNoText\obj\Debug\NaNoText.pdb
