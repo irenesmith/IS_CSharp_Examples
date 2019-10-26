@@ -1,0 +1,10 @@
+C:\Development\IS_CSharp_Examples\NaNoText\NaNoText\bin\Release\NaNoText.exe.config
+C:\Development\IS_CSharp_Examples\NaNoText\NaNoText\bin\Release\NaNoText.exe
+C:\Development\IS_CSharp_Examples\NaNoText\NaNoText\bin\Release\NaNoText.pdb
+C:\Development\IS_CSharp_Examples\NaNoText\NaNoText\obj\Release\NaNoText.csprojAssemblyReference.cache
+C:\Development\IS_CSharp_Examples\NaNoText\NaNoText\obj\Release\NaNoText.FormMain.resources
+C:\Development\IS_CSharp_Examples\NaNoText\NaNoText\obj\Release\NaNoText.Properties.Resources.resources
+C:\Development\IS_CSharp_Examples\NaNoText\NaNoText\obj\Release\NaNoText.csproj.GenerateResource.cache
+C:\Development\IS_CSharp_Examples\NaNoText\NaNoText\obj\Release\NaNoText.exe
+C:\Development\IS_CSharp_Examples\NaNoText\NaNoText\obj\Release\NaNoText.pdb
+C:\Development\IS_CSharp_Examples\NaNoText\NaNoText\obj\Release\NaNoText.About.resources
