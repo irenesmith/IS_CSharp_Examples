@@ -26,9 +26,15 @@ namespace NaNoText
                 try
                 {
                     var fileName = OpenFileDlg.FileName;
-                    rtbNovelText.Text = File.ReadAllText(fileName);
+
+                    // Without the encoding parameter, left-quote, right-quote,
+                    // and similar characters are replaced with a symbol indicating
+                    // an unknown character.
+                    var textIn = File.ReadAllText(fileName, Encoding.Default);
+
+                    rtbNovelText.Text = textIn;
                 }
-                catch(IOException ex)
+                catch (IOException ex)
                 {
                     MessageBox.Show("Sorry, an error occurred when reading the file: " + ex.ToString());
                 }
@@ -51,6 +57,32 @@ namespace NaNoText
         {
             rtbNovelText.SelectAll();
             rtbNovelText.Copy();
+        }
+
+        private void cmdSave_Click(object sender, EventArgs e)
+        {
+            var response = SaveFileDlg.ShowDialog();
+            if (response == DialogResult.OK)
+            {
+                try
+                {
+                    var fileName = SaveFileDlg.FileName;
+
+                    // Not entirely sure that the encoding parameter is required
+                    // here but I'm adding it to be on the safe side.
+                    File.WriteAllText(fileName, rtbNovelText.Text, Encoding.Default);
+                }
+                catch (IOException ex)
+                {
+                    MessageBox.Show("Sorry, an error occurred when writing to the file: " + ex.ToString());
+                }
+            }
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+            var about = new About();
+            about.ShowDialog();
         }
     }
 }
