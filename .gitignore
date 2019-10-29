@@ -1,0 +1,4 @@
+# Ignore all Visual Studio settings folders
+FileExample/.vs/
+NaNoText/.vs/
+Tipster/.vs/
