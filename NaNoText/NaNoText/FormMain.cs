@@ -43,11 +43,11 @@ namespace NaNoText
 
         private void cmdConvert_Click(object sender, EventArgs e)
         {
-            var letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZbcdefghijklmnopqrstuvwxyz";
-            var novelText = rtbNovelText.Text;
-            for (var i=0; i < letters.Length; i++)
+            var letters = "bcdefghijklmnopqrstuvwxyz";
+            var novelText = rtbNovelText.Text.ToLower();
+            foreach(char ch in letters)
             {
-                novelText = novelText.Replace(letters[i], 'a');
+                novelText = novelText.Replace(ch, 'a');
             }
 
             rtbNovelText.Text = novelText;
