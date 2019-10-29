@@ -7,13 +7,3 @@ C:\Users\Irene\Documents\Visual Studio 2015\Projects\NaNoText\NaNoText\obj\Debug
 C:\Users\Irene\Documents\Visual Studio 2015\Projects\NaNoText\NaNoText\obj\Debug\NaNoText.csproj.GenerateResource.Cache
 C:\Users\Irene\Documents\Visual Studio 2015\Projects\NaNoText\NaNoText\obj\Debug\NaNoText.exe
 C:\Users\Irene\Documents\Visual Studio 2015\Projects\NaNoText\NaNoText\obj\Debug\NaNoText.pdb
-C:\Development\IS_CSharp_Examples\NaNoText\NaNoText\bin\Debug\NaNoText.exe.config
-C:\Development\IS_CSharp_Examples\NaNoText\NaNoText\bin\Debug\NaNoText.exe
-C:\Development\IS_CSharp_Examples\NaNoText\NaNoText\bin\Debug\NaNoText.pdb
-C:\Development\IS_CSharp_Examples\NaNoText\NaNoText\obj\Debug\NaNoText.csprojAssemblyReference.cache
-C:\Development\IS_CSharp_Examples\NaNoText\NaNoText\obj\Debug\NaNoText.FormMain.resources
-C:\Development\IS_CSharp_Examples\NaNoText\NaNoText\obj\Debug\NaNoText.Properties.Resources.resources
-C:\Development\IS_CSharp_Examples\NaNoText\NaNoText\obj\Debug\NaNoText.csproj.GenerateResource.cache
-C:\Development\IS_CSharp_Examples\NaNoText\NaNoText\obj\Debug\NaNoText.exe
-C:\Development\IS_CSharp_Examples\NaNoText\NaNoText\obj\Debug\NaNoText.pdb
-C:\Development\IS_CSharp_Examples\NaNoText\NaNoText\obj\Debug\NaNoText.About.resources
