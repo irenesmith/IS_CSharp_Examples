@@ -1,0 +1,14 @@
+C:\Development\IS_CSharp_Examples\Tipster\Tipster\bin\Release\Tipster.exe.config
+C:\Development\IS_CSharp_Examples\Tipster\Tipster\bin\Release\Tipster.exe
+C:\Development\IS_CSharp_Examples\Tipster\Tipster\bin\Release\Tipster.pdb
+C:\Development\IS_CSharp_Examples\Tipster\Tipster\obj\Release\Tipster.csprojAssemblyReference.cache
+C:\Development\IS_CSharp_Examples\Tipster\Tipster\obj\Release\MainWindow.baml
+C:\Development\IS_CSharp_Examples\Tipster\Tipster\obj\Release\App.baml
+C:\Development\IS_CSharp_Examples\Tipster\Tipster\obj\Release\MainWindow.g.cs
+C:\Development\IS_CSharp_Examples\Tipster\Tipster\obj\Release\App.g.cs
+C:\Development\IS_CSharp_Examples\Tipster\Tipster\obj\Release\Tipster_MarkupCompile.cache
+C:\Development\IS_CSharp_Examples\Tipster\Tipster\obj\Release\Tipster.g.resources
+C:\Development\IS_CSharp_Examples\Tipster\Tipster\obj\Release\Tipster.Properties.Resources.resources
+C:\Development\IS_CSharp_Examples\Tipster\Tipster\obj\Release\Tipster.csproj.GenerateResource.cache
+C:\Development\IS_CSharp_Examples\Tipster\Tipster\obj\Release\Tipster.exe
+C:\Development\IS_CSharp_Examples\Tipster\Tipster\obj\Release\Tipster.pdb
