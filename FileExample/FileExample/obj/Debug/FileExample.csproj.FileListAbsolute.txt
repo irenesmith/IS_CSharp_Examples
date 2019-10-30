@@ -16,3 +16,20 @@ C:\Users\Irene\Documents\Visual Studio 2015\Projects\IS_CSharp_Examples\FileExam
 C:\Users\Irene\Documents\Visual Studio 2015\Projects\IS_CSharp_Examples\FileExample\FileExample\obj\Debug\FileExample.FormMain.resources
 C:\Users\Irene\Documents\Visual Studio 2015\Projects\IS_CSharp_Examples\FileExample\FileExample\obj\Debug\FileExample.Properties.Resources.resources
 C:\Users\Irene\Documents\Visual Studio 2015\Projects\IS_CSharp_Examples\FileExample\FileExample\obj\Debug\FileExample.csproj.GenerateResource.Cache
+C:\Development\IS_CSharp_Examples\FileExample\FileExample\bin\Debug\FileExample.exe.config
+C:\Development\IS_CSharp_Examples\FileExample\FileExample\bin\Debug\FileExample.exe
+C:\Development\IS_CSharp_Examples\FileExample\FileExample\bin\Debug\FileExample.pdb
+C:\Development\IS_CSharp_Examples\FileExample\FileExample\obj\Debug\FileExample.csprojAssemblyReference.cache
+C:\Development\IS_CSharp_Examples\FileExample\FileExample\obj\Debug\FileExample.FormMain.resources
+C:\Development\IS_CSharp_Examples\FileExample\FileExample\obj\Debug\FileExample.Properties.Resources.resources
+C:\Development\IS_CSharp_Examples\FileExample\FileExample\obj\Debug\FileExample.csproj.GenerateResource.cache
+C:\Development\IS_CSharp_Examples\FileExample\FileExample\obj\Debug\FileExample.exe
+C:\Development\IS_CSharp_Examples\FileExample\FileExample\obj\Debug\FileExample.pdb
+C:\Development\IS_CSharp_Examples\FileExample\FileExample\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Development\IS_CSharp_Examples\FileExample\FileExample\bin\Debug\Newtonsoft.Json.dll
+C:\Development\IS_CSharp_Examples\FileExample\FileExample\bin\Debug\Newtonsoft.Json.Schema.dll
+C:\Development\IS_CSharp_Examples\FileExample\FileExample\bin\Debug\Newtonsoft.Json.xml
+C:\Development\IS_CSharp_Examples\FileExample\FileExample\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Development\IS_CSharp_Examples\FileExample\FileExample\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Development\IS_CSharp_Examples\FileExample\FileExample\bin\Debug\Newtonsoft.Json.Schema.xml
+C:\Development\IS_CSharp_Examples\FileExample\FileExample\obj\Debug\FileExample.csproj.CopyComplete

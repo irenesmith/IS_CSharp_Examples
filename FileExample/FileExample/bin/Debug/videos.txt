@@ -1,0 +1,1118 @@
+Wonder Woman,4K,"[""Action"",""Adventure"",""Fantasy""]",2017
+300,DVD,"[""Action"",""Fantasy""]",2006
+1408,DVD,"[""Drama"",""Horror""]",2007
+2001: A Space Odyssey,DVD,"[""Science Fiction""]",1968
+1000 Singing Slugs,DVD,"[""Animation"",""Bonus Material"",""Family""]",2006
+101 Dalmations,DVD,"[""Animation"",""Adventure"",""Comedy""]",1961
+101 Dalmations,DVD,"[""Adventure"",""Comedy"",""Crime""]",1996
+"10th Kingdom, The",DVD,"[""Adventure"",""Comedy"",""Family""]",2000
+Twelve Monkeys,Blu-Ray,"[""Mystery"",""Science Fiction"",""Thriller""]",1995
+13 Going on 30,DVD,"[""Comedy"",""Fantasy"",""Romance""]",2004
+"13th Warrior, The",DVD,"[""Action"",""Adventure"",""History""]",1999
+28 Days,DVD,"[""Comedy"",""Drama""]",2000
+3:10 to Yuma,DVD,"[""Adventure"",""Crime"",""Drama"",""Western""]",2007
+3000 Miles to Graceland,DVD,"[""Action"",""Comedy"",""Crime""]",2001
+"40-Year-Old Virgin, The",DVD,"[""Comedy"",""Romance""]",2005
+50 First Dates,DVD,"[""Comedy"",""Romance""]",2004
+9 to 5,DVD,"[""Comedy""]",1980
+Absolute Power,DVD,"[""Action"",""Crime"",""Drama""]",1997
+Adaption,DVD,"[""Comedy"",""Drama""]",2002
+"Admiral was a Lady, The",DVD,"[""Comedy"",""Romance""]",1950
+After the Sunset,DVD,"[""Action"",""Comedy"",""Crime""]",2004
+Airport,DVD,"[""Action"",""Drama"",""Thriller""]",1970
+Alexander,DVD,"[""Action"",""Adventure"",""Biography""]",2004
+Alice in Wonderland,DVD,"[""Animation"",""Adventure"",""Family"",""Fantasy"",""Musical""]",1951
+All the President's Men,DVD,"[""Biography"",""Drama"",""History"",""Thriller""]",1976
+American Beauty,DVD,Drama,1999
+American Graffiti,DVD,"[""Comedy"",""Drama""]",1973
+America's Sweethearts,DVD,"[""Comedy"",""Romance""]",2001
+Amos and Andrew,DVD,"[""Comedy"",""Crime""]",1993
+An Affair to Remember,DVD,"[""Drama"",""Romance""]",1957
+Analyze That,DVD,"[""Comedy"",""Crime""]",2002
+Analyze This,DVD,"[""Comedy"",""Crime""]",1999
+And Justice for All,DVD,"[""Crime"",""Drama"",""Thriller""]",1979
+Antitrust,DVD,"[""Action"",""Crime"",""Drama"",""Thriller""]",2001
+Any Which Way you Can,DVD,"[""Action"",""Comedy""]",1980
+Apache,DVD,"[""Western""]",1954
+"Aristocats, The",DVD,"[""Animation"",""Adventure"",""Comedy"",""Family"",""Music""]",1970
+Around the World in 80 Days,DVD,"[""Action"",""Adventure"",""Comedy"",""Family""]",2004
+Around the World in 80 Days,DVD,"[""Action"",""Adventure"",""Animation""]",1999
+Arthur and the Invisibiles,DVD,"[""Animation"",""Adventure"",""Family"",""Fantasy""]",2006
+As Good as it Gets,DVD,"[""Comedy"",""Drama"",""Romance""]",1997
+Assume the Position with Mr. Wuhl,DVD,"[""Comedy"",""Documentary"",""History"",""Short""]",2006
+Australia,DVD,"[""Adventure"",""Drama"",""Romance"",""War""]",2008
+"Avatar, The",DVD,"[""Fantasy""]",2004
+"Avengers, The",DVD,"[""Action"",""Adventure"",""Science Fiction""]",2012
+Babel,DVD,"[""Drama""]",2006
+"Bachelor, The",DVD,"[""Comedy"",""Romance""]",1999
+Back to the Future,DVD,"[""Adventure"",""Comedy"",""Science Fiction""]",1985
+Backdraft,DVD,"[""Action"",""Crime"",""Drama""]",1991
+Bad Boys,DVD,"[""Action"",""Comedy"",""Crime""]",1995
+Bad Boys II,DVD,"[""Action"",""Comedy"",""Crime""]",2003
+Bad Santa,DVD,"[""Comedy"",""Crime"",""Drama""]",2003
+Banditas,DVD,"[""Action"",""Comedy"",""Crime""]",2006
+Bandits,DVD,"[""Comedy"",""Crime"",""Drama""]",2001
+Barbarians at the Gate,DVD,"[""Biography"",""Comedy"",""Drama""]",1993
+Basic Instinct,DVD,"[""Drama"",""Mystery"",""Thriller""]",1992
+Batman,DVD,"[""Action"",""Adventure""]",1989
+Batman & Mr. Freeze: SubZero,DVD,"[""Animation"",""Action"",""Crime"",""Drama"",""Science Fiction"",""Thriller""]",1998
+Batman & Robin,DVD,Action,1997
+Be Kind Rewind,DVD,"[""Comedy""]",2008
+Beatles Unauthorized,DVD,Music,2003
+Bee Movie,DVD,Comedy,2007
+Beverly Hills Cop II,DVD,Comedy,1987
+Big,Blu-Ray,"[""Commedy"",""Drama"",""Family"",""Fantasy"",""Romance""]",1988
+"Big Bounce, The",DVD,Comedy,2004
+"Big Chill, The",DVD,"[""Comedy"",""Drama""]",1983
+Big Daddy,DVD,"[""Comedy"",""Drama""]",1999
+"Big Easy, The",DVD,"[""Comedy"",""Crime"",""Drama"",""Romance"",""Thriller""]",1986
+Big Fat Liar,DVD,"[""Adventure"",""Comedy"",""Family""]",2002
+"Big Lebowski, The",DVD,"[""Comedy"",""Crime""]",1998
+"Big Sleep, The",DVD,"[""Crime"",""Film-Noir"",""Mystery"",""Thriller""]",1946
+Black Snake Moan,DVD,"[""Drama"",""Music""]",2006
+Blade,DVD,"[""Action"",""Horror""]",1998
+Blade Runner,DVD,"[""Science Fiction"",""Thriller""]",1982
+Blast from the Past,DVD,"[""Comedy"",""Drama"",""Romance"",""Science Fiction""]",1999
+Blazing Saddles,DVD,"[""Comedy"",""Western""]",1974
+"Blind Side, The",Blu-Ray,"[""Biography"",""Drama"",""Sport""]",2009
+Blood Diamond,DVD,"[""Adventure"",""Drama"",""Thriller""]",2006
+Blood on the Sun,DVD,"[""Drama"",""Romance"",""Thriller"",""War""]",1945
+Body Heat,DVD,"[""Crime"",""Drama"",""Romance"",""Thriller""]",1981
+"Bodyguard, The",DVD,"[""Action"",""Drama"",""Music"",""Romance""]",1992
+Bolt,Blu-Ray,"[""Animation"",""Adventure"",""Comedy"",""Drama"",""Family""]",2008
+Bonnie and Clyde,DVD,"[""Action"",""Biography"",""Crime"",""Drama""]",1967
+Borat,DVD,Comedy,2006
+"Bourne Identity, The",DVD,Action,2002
+"Bourne Supremacy, The",DVD,Action,2004
+Boys Don't Cry,DVD,Drama,1999
+Bozo the World's Most Famous Clown,DVD,Comedy,
+Braveheart,DVD,"[""Biography"",""Drama"",""History"",""War""]",1995
+Breach,DVD,"[""Biography"",""Crime"",""Drama"",""History"",""Thriller""]",2007
+"Break-up, The",DVD,Comedy,2006
+Brewster's Millions,DVD,Comedy,1985
+Bridge to Teabithia,DVD,Fantasy,2007
+Bridges of Madison County,DVD,Romance,1995
+Bring it On,DVD,Romantic Comedy,2000
+Bronco Billy,DVD,Drama,1980
+Bruce Almighty,DVD,Comedy,2003
+Bug's Life A,DVD,Fantasy,1998
+Bullitt,DVD,Action,1968
+Bullworth,DVD,Comedy,1998
+Burn After Reading,DVD,Comedy,2008
+Burns & Allen,DVD,Comedy,1954
+"Butcher's Wife, The",DVD,Romance,1991
+Cape Fear,DVD,Drama,1991
+Cape Fear,DVD,Drama,1961
+Carlito's Way,DVD,"[""Crime"",""Drama"",""Thriller""]",1993
+Casablanca,DVD,Drama,1942
+Casper,DVD,Fantasy,1995
+Castaway,DVD,Drama,2000
+Casualties of War,DVD,Drama,1989
+Cat People,DVD,Horror,1982
+Cats & Dogs,DVD,Comedy,2001
+Catwoman,DVD,Action,2004
+Changeling,DVD,Drama,2008
+Charlie and the Chocolate Factory,DVD,Family,2005
+Charlie's Angels,DVD,Action,2000
+Chasing Amy,DVD,Comedy,1997
+Chicago,DVD,"[""Comedy"",""Crime"",""Musical""]",2002
+Chicken Little,DVD,Family,2005
+Chicken Run,DVD,Family,2000
+Chitty Chitty Bang Bang,DVD,Musical,1968
+Chocolat,DVD,Romance,2000
+"Christmas Carol, A",Blu-Ray,Fantasy,2009
+"Christmas Carol, The Muppets'",DVD,Fantasy,1992
+Christmas with the Cranks,DVD,Comedy,2004
+Cinderella,DVD,Fantasy,1950
+Cinderella Man,DVD,History,2005
+"Cinderella Story, A",DVD,Romantic Comedy,2004
+City Slickers,DVD,Comedy,1991
+Clash of the Titans,Blu-Ray,Fantasy,2010
+Clear and Present Danger,DVD,Action,1994
+Clerks,DVD,Comedy,1994
+Clerks II,DVD,Comedy,2006
+Client The,DVD,Drama,1994
+Closer,DVD,Romance,2004
+Clue,DVD,Comedy,1985
+Cold Mountain,DVD,Drama,2003
+Collection: Bing Crosby Going My Way/Holiday Inn,DVD,Musical,
+Collection: Burbs/Money Pit,DVD,Comedy,
+Collection: Classical Musicals,DVD,Musical,
+Collection: Die Hard,DVD,Action,
+Collection: John Wayne Western 3-pack,DVD,Western,
+Collection: Man with No Name,DVD,Western,
+Collection: Marilyn Monroe,DVD,,
+Collection: Marx Brothers,DVD,Comedy,
+Collection: Rogers & Hammerstein,DVD,Musical,
+Collection: Sinatra,DVD,,
+Collection: Vin Diesel,DVD,Action,
+"Color of Magic, The",DVD,Fantasy,2008
+Con Air,DVD,Action,1997
+Conan the Barbarian,DVD,Fantasy,1982
+Conspiracy Theory,DVD,Action,1997
+"Constant Gardener, The",DVD,Drama,2005
+"Contender, The",DVD,Drama,2000
+"Cooler, The",DVD,Romance,2003
+Copycat,DVD,Drama,1995
+Corpse Bride,DVD,Musical,2005
+"Country Bears, The",DVD,Comedy,2002
+Coyote Ugly,DVD,Romance,2000
+"Craft, The",DVD,"[""Drama"",""Fantasy"",""Horror"",""Thriller""]",1996
+Crank,DVD,Action,2006
+Crash,DVD,Drama,2004
+Creep Show,DVD,Horror,1982
+Criminal Minds,DVD,"[""Crime"",""Drama"",""History"",""TV""]",2005
+Crocodile Dundee,DVD,Comedy,1986
+Cutting Edge The,DVD,Romantic Comedy,1992
+D.O.A.,DVD,Thriller,1988
+Daddy Day Care,DVD,Comedy,2003
+Damn Yankees,DVD,Musical,1958
+Dances with Wolves,DVD,Drama,1990
+Daredevil,DVD,Action,2003
+Daredevil vs. Spiderman,DVD,Action,1994
+Dark Knight,DVD,Action,2008
+Dave,DVD,Comedy,1993
+D-Day,DVD,History,
+"Dead Pool, The",DVD,Drama,1988
+Death Race,DVD,Action,2008
+Deathproof,DVD,Drama,2007
+Deliver us from Eva,DVD,Comedy,2003
+De-Lovely,DVD,Musical,2004
+Demolition Man,DVD,Science Fiction,1993
+Desperado,DVD,Western,1995
+Deuce Bigelow,DVD,Comedy,1999
+Diggstown,DVD,Drama,1992
+Dirty Dancing,DVD,"[""Drama"",""Music"",""Romance""]",1987
+Dirty Harry,DVD,Drama,1971
+Disclosure,DVD,Drama,1994
+Discpicable Me,Blu-Ray,Comedy,2010
+Divine Madness,DVD,Musical,1980
+Dodgeball,DVD,Comedy,2004
+Dogma,DVD,Comedy,1999
+Domino,DVD,Drama,1988
+Don Juan DeMarco,DVD,Romance,1994
+Don't Say a Word,DVD,Drama,2001
+Doogal,DVD,Comedy,2006
+Dr. Doolittle,DVD,Comedy,1998
+Dr. Doolittle 2,DVD,Comedy,2001
+Dracula,DVD,Horror,1992
+Dracula 2000,DVD,Horror,2000
+Dragnet (3 Episodes),DVD,"[""Crime"",""Drama"",""Mystery"",""TV""]",1967
+Dreamcatcher,DVD,Horror,2003
+Dressed to Kill,DVD,,1980
+Dudley Do-Right,DVD,Comedy,1999
+Duel,DVD,Drama,1971
+Dumbo,DVD,Fantasy,1941
+Dungeons & Dragons,DVD,Fantasy,2000
+Earthsea,DVD,Fantasy,2004
+Elf,DVD,Comedy,2003
+Elizabethtown,DVD,Romance,2005
+Entrapment,DVD,Romance,1999
+Eragon,DVD,Fantasy,2006
+Erin Brockovitch,DVD,Drama,2000
+Eternal Sunshine of the Spotless Mind,DVD,Romance,2004
+European Vacation,DVD,Comedy,1985
+Evan Almighty,DVD,Comedy,2007
+Ever After: A Cinderella Story,DVD,"[""Comedy"",""Drama"",""Romance""]",1998
+Everybody Loves Raymond,DVD,"[""Comedy"",""Family"",""TV""]",1996 - 2005
+"Exorcist, The",DVD,Horror,1973
+Fair Game,DVD,Action,1995
+Family Guy Partial Terms of Endearment,DVD,Comedy,2010
+Family Guy Presents Stewie Griffin the Untold Story,DVD,Comedy,2005
+Family Guy: Blue Harvest,DVD,Comedy,2007
+Family Guy: Something Something Something Dark Side,Blu-Ray,Comedy,2009
+"Family Man, The",DVD,Fantasy,2000
+"Family Stone, The",DVD,Comedy,2005
+Fantastic Four,DVD,Action,2005
+Fantastic Four,Blu-Ray,Action,2005
+"Farewell to Arms, A",DVD,Drama,1932
+Fiddler on the Roof,DVD,Musical,1971
+Finding Neverland,DVD,Drama,2004
+Firewall,DVD,Action,2006
+First Knight,DVD,Romance,1995
+"Fish Called Wanda, A",DVD,Comedy,1988
+Flashdance,DVD,Drama,1983
+Flushed Away,DVD,Comedy,2006
+Fools Rush In,DVD,Romantic Comedy,1997
+For the Boys,DVD,Romance,1991
+Forrest Gump,DVD,Drama,1994
+Fort Apache The Bronx,Blu-Ray,Drama,1981
+Foul Play,DVD,Romantic Comedy,1978
+"Fox and the Hound, The",DVD,Adventure,1981
+Freedomland,DVD,Drama,2006
+Frequency,DVD,Science Fiction,2000
+"Freshman, The",DVD,Comedy,1990
+Frida,DVD,"[""Biography"",""Drama"",""Romance""]",2002
+Fugitive The,DVD,Action,1993
+Fun with Dick and Jane,DVD,Comedy,1976
+Galaxy Quest,DVD,"[""Adventure"",""Comedy"",""Science Fiction""]",1999
+Garfield A Tale of Two Kitties,DVD,Family,2006
+"General's Daughter, The",DVD,Drama,1999
+Get Christie Love!,DVD,"[""Drama"",""Crime""]",1974
+Get Over It,DVD,Romantic Comedy,2001
+Ghost Town,DVD,Romantic Comedy,2008
+Ghostbusters,DVD,Comedy,1986
+Gladiator,DVD,Historical,2000
+Glee Encore,Blu-Ray,"[""Music"",""TV""]",2011
+Glengarry Glen Ross,DVD,Drama,1992
+Godzilla,DVD,Science Fiction,1998
+"Golden Compass, The",DVD,Fantasy,2007
+Gone with the Wind,Blu-Ray,Historical,1939
+"Good Girl, The",DVD,Drama,2002
+Good Morning Vietnam,DVD,Comedy,1987
+Good Will Hunting,DVD,Drama,1997
+Goodfellas,DVD,Drama,1990
+Gothika,DVD,Horror,2003
+Grammar for All,DVD,Educational,
+Grandmas got run over by a Reindeer,DVD,Family,2000
+"Green Mile, The",DVD,Fantasy,1999
+Grosse Pointe Blank,DVD,Comedy,1997
+Guarding Tess,DVD,Comedy,1994
+Gulliver's Travels,DVD,Family,1996
+Hancock,DVD,Action,2008
+Hang 'Em High,DVD,Western,1968
+Happily N'Ever After,DVD,Family,2006
+Happy Feet,DVD,Family,2006
+Hard Times,DVD,Drama,1975
+Harry Potter and the Sorcerer's Stone,DVD,Fantasy,2001
+Harry Potter and the Chamber of Secrets,DVD,Fantasy,2002
+Harry Potter and the Prisoner of Azkaban,DVD,Fantasy,2004
+Harry Potter and the Goblet of Fire,DVD,Fantasy,2005
+Harry Potter and the Order of the Phoenix,DVD,Fantasy,2007
+Harry Potter and the Half-Blood Prince,DVD,"[""Adventure"",""Family"",""Fantasy"",""Mystery""]",2009
+Harry Potter and the Deathly Hallows: Part 1,DVD,Fantasy,2010
+Harry Potter and the Deathly Hallows: Part 2,DVD,Fantasy,2011
+Heartbreak Ridge,DVD,Action,1986
+Heartbreakers,DVD,Romantic Comedy,2001
+Hellboy II: The Golden Army,DVD,Horror,2008
+Help The,DVD,Drama,2011
+Her Alibi,DVD,Romantic Comedy,1989
+Hercules: The Legendary Journeys,DVD,TV-Fantasy,1995
+High Fidelity,DVD,Comedy,2000
+High Noon,DVD,"[""Action"",""Drama"",""Thriller"",""Western""]",1952
+His Girl Friday,DVD,Romantic Comedy,1940
+"History of Violence, A",DVD,Drama,2005
+Hitman,DVD,Action,2007
+Hogfather,DVD,Fantasy,2006
+Hollywood Homocide,DVD,Drama,2003
+Honey,DVD,Drama,2003
+Hook,DVD,Family,1991
+Hoosiers,DVD,"[""Drama"",""Sport""]",1986
+House on Haunted Hill,DVD,Horror,1959
+House,DVD,"[""Drama"",""Mystery"",""TV""]",2004 - 2012
+Houseboat,DVD,Romance,1958
+How to Train Your Dragon,Blu-Ray,Family,2010
+I am Legend,DVD,Horror,2007
+I Heart Huckabees,DVD,Comedy,2004
+"I, Robot",Blu-Ray,"[""Action"",""Crime"",""Drama""]",2004
+I Think I Love my Wife,DVD,"[""Comedy"",""Drama"",""Romance""]",2007
+Ice Age: The Meltdown,DVD,"[""Animation"",""Action"",""Adventure"",""Comedy"",""Family"",""Fantasy""]",2006
+"Ice Harvest, The",DVD,Drama,2005
+Idiocracy,DVD,Comedy,2006
+If a Man Answers,DVD,Romantic Comedy,1962
+Igor,DVD,Family,2008
+In & Out,DVD,Comedy,1997
+In the Line of Fire,DVD,"[""Action"",""Crime"",""Drama"",""Thriller""]",1993
+Independence Day,DVD,Science Fiction,1996
+Indiana Jones and the Kingdom of the Crystal Skull,DVD,Adventure,2008
+Inside Man,DVD,Drama,2006
+"Insider, The",DVD,Drama,1999
+Inspector Gadget,DVD,"[""Action"",""Adventure"",""Comedy"",""Family"",""Science Fiction""]",1999
+Inspector Gadget 2,DVD,Family,2003
+Invincible,DVD,Drama,2006
+IQ,DVD,Romantic Comedy,1994
+Jack Frost,DVD,"[""Comedy"",""Drama"",""Family"",""Fantasy""]",1998
+January Man,DVD,Drama,1989
+Jason and the Argonauts,DVD,Fantasy,2000
+Jay and Silent Bob Strike Back,DVD,Comedy,2001
+Jimmy Neutron: Boy Genius,DVD,Family,2001
+Joan of Arc,DVD,Historical,1999
+Jumanji,Blu-Ray,"[""Action"",""Adventure"",""Family""]",1995
+Juno,DVD,Comedy,2007
+Jurassic Park,DVD,Science Fiction,1993
+"Juror, The",DVD,Drama,1996
+Just Like Heaven,DVD,Romance,2005
+Justice League Justice on Trial,DVD,Adventure,
+Kangaroo Jack,DVD,Family,2003
+"Karate Kid, The",DVD,Drama,1984
+Kate & Leopold,DVD,"[""Comedy"",""Fantasy"",""Romance""]",2001
+"King and I, The (animated)",DVD,Family,
+King Arthur,DVD,Historical,2004
+L.A. Confidential,DVD,Drama,1997
+L.A. Story,DVD,Romantic Comedy,1991
+Labrynth,DVD,Fantasy,1986
+"Lady and the Highwayman, The",DVD,Historical,1989
+Ladyhawke,DVD,Fantasy,1985
+"Ladykillers, The",DVD,Comedy,2004
+Las Vegas,DVD,"[""Crime"",""Drama"",""TV""]",2003
+Last Boy Scout The,DVD,"[""Action"",""Comedy"",""Crime""]",1991
+Last Holiday,DVD,Romance,2006
+Last Man Standing,DVD,"[""Action"",""Crime"",""Drama""]",1996
+"Last Seduction, The",DVD,Drama,1994
+"Last Starfighter, The",DVD,Science Fiction,1984
+Last Unicorn The,DVD,Fantasy,1982
+Law & Order,DVD,"[""Crime"",""Drama"",""Mystery"",""TV""]",2003
+Laws of Attraction,DVD,Romantic Comedy,2004
+"League of their Own, A",DVD,Drama,1992
+Leap of Faith,DVD,Drama,1992
+Legal Eagles,DVD,Drama,1986
+Legally Blond,DVD,Romantic Comedy,2001
+"Legally Blond 2: Red, White & Blonde",DVD,Romantic Comedy,2003
+Legends of the Fall,DVD,Drama,1994
+Liar Liar,DVD,Comedy,1997
+Life of Brian,DVD,Comedy,1979
+"Lion King, The",DVD,Family,1994
+"Little Mermaid, The",DVD,Family,1989
+Little Miss Sunshine,DVD,Comedy,2006
+Little Shop of Horrors,DVD,"[""Comedy"",""Family"",""Musical"",""Romance"",""Science Fiction""]",1986
+"Little Vampire, The",DVD,Family,2000
+"Long Kiss Goodnight, The",DVD,Action,1996
+Loony Tunes Back in Action,DVD,Family,2003
+Losing Isaiah,DVD,Drama,1995
+Lost in Space,DVD,Science Fiction,1998
+Lost in Translation,DVD,Drama,2003
+Love Actually,DVD,Romance,2003
+Lovers and Other Strangers,DVD,Comedy,1970
+"Lucky One, The",DVD,Romance,2012
+Made in America,DVD,Comedy,1993
+Madeline (cartoon),DVD,Family,
+Madeline (live action),DVD,Family,1998
+Mafia The History of the Mob in America,DVD,Educational,1993
+"Majestic, The",DVD,Romance,2001
+"Maltese Falcon, The",DVD,Drama,1941
+Man of the Year,DVD,Comedy,2006
+Man on Fire,DVD,Action,2004
+Man on the Moon,DVD,Biography,1999
+"Man with Two Brains, The",DVD,Comedy,1983
+"Manchurian Candidate, The",DVD,Drama,1962
+"Mask, The",DVD,Comedy,1994
+"Matador, The",DVD,Comedy,2005
+Match Point,DVD,Romance,2005
+"Matrix, The",DVD,Science Fiction,1999
+Matrix (duplicate),DVD,Science Fiction,1999
+McClintock,DVD,Western,1963
+"Medallion, The",DVD,Fantasy,2003
+Meet the Fockers,DVD,Comedy,2004
+Meet the Robinsons,DVD,Family,2007
+Mercury Rising,DVD,Drama,1998
+"Mexican, The",DVD,Action,2001
+Miami Rhapsody,DVD,Romance,1995
+Mirror Mirror,Blu-Ray,Comedy,2012
+Mixed Nuts,DVD,Comedy,1994
+Mona Lisa Smile,DVD,Romance,2003
+Monster,DVD,Biography,2003
+Monster House,DVD,Family,2006
+Monster-in-Law,DVD,Romantic Comedy,2005
+Moonstruck,DVD,Romance,1987
+Mousehunt,DVD,Comedy,1997
+Mr. & Mrs. North,DVD,"[""Comedy"",""Mystery"",""Romance"",""TV""]",1952
+Mr. Deeds Goes to Town,DVD,"[""Comedy"",""Drama"",""Romance""]",1936
+Mr. Moto's Last Warning,DVD,Adventure,1939
+Mrs. Doubtfire,DVD,Comedy,1993
+"Mummy Returns, The",DVD,"[""Action"",""Adventure"",""Fantasy""]",2001
+"Mummy, The",DVD,"[""Action"",""Adventure"",""Fantasy""]",1999
+Munich,DVD,Drama,2005
+Murder at 1600,DVD,Drama,1997
+Murphy's Romance,DVD,Romance,1985
+Music & Lyrics,DVD,Romantic Comedy,2007
+My Best Friend's Wedding,DVD,Romantic Comedy,1997
+My Side of the Mountain,DVD,Adventure,1969
+Mysteries of the Bible,DVD,Educational,1994
+Mystic River,DVD,Drama,2003
+Myths and Legends Part 1,DVD,Educational,2002
+Myths and Legends Part 2,DVD,Educational,2002
+Nacho Libre,DVD,Comedy,2006
+"Naked Gun 2-1/2 the Smell of Fear, The",DVD,Comedy,1991
+"Chronicles of Narnia: Prince Caspian, The",DVD,Fantasy,2008
+Narnia the Lion the Witch and the Wardrobe,DVD,Fantasy,2005
+"Negotiator, The",DVD,Drama,1998
+Night at the Museum,DVD,Fantasy,2006
+Night at the Museum Battle of the Smithsonian,Blu-Ray,Fantasy,2009
+Nim's Island,DVD,Fantasy,2008
+No Country for Old Men,DVD,Drama,2007
+Norbit,DVD,Comedy,2007
+Notting Hill,DVD,Romance,1999
+Now and Then,DVD,Drama,1995
+Nurse Betty,DVD,Comedy,2000
+Ocean's Eleven,DVD,Action,2001
+Ocean's Twelve,DVD,Action,2004
+"Odyssey, The",DVD,Fantasy,1997
+O Brother Where Art Thou,DVD,Comedy,2000
+Oklahoma,DVD,Musical,1999
+Oliver & Company,DVD,Musical,1988
+"Omen, The",DVD,Horror,2006
+One Eyed Jacks,DVD,Western,1961
+One Flew Over the Cuckoo's Nest,DVD,"[""Drama""]",1975
+One Night at McCools,DVD,Comedy,2001
+Open Range,DVD,Western,2003
+Open Season,DVD,Comedy,2006
+Over the Hedge,DVD,Family,2006
+Over the Hill Gang,DVD,Comedy,1990
+Overboard,DVD,Romantic Comedy,1987
+"PageMaster, The",DVD,Family,1994
+Patriot Games,DVD,Action,1992
+"Patriot, The",DVD,Historical,2000
+Peggy Sue Got Married,DVD,Comedy,1986
+"Pelican Brief, The",DVD,Drama,1993
+Percy Jackson & the Olympians: the Lightning Thief,Blu-Ray,"[""Adventure"",""Family"",""Fantasy""]",2010
+Peter Pan,DVD,Family,2003
+"Phantom, The",DVD,Action,1996
+Pink Panther,DVD,Biography,2006
+Pink Panther,DVD,Comedy,1964
+Pippin,DVD,Musical,1981
+Pirates of the Caribbean Curse of the Black Pearl,DVD,Adventure,2003
+"Planes, Trains, and Automobiles",DVD,"[""Comedy""]",1987
+"Polar Express, The",DVD,Adventure,2004
+Practical Magic,DVD,Romance,1998
+Precision Body Sculpting,DVD,Exercise,
+Prehistoric Preditors Sabretooth,DVD,Educational,2007
+Premonition,DVD,Horror,2007
+"Prestige, The",DVD,Drama,2006
+Pretty in Pink,DVD,Romantic Comedy,1986
+Primal Fear,DVD,Drama,1996
+"Princess Bride, The",Blu-Ray,Romance,1987
+"Producers, The",DVD,Comedy,1968
+"Leon, the Professional",DVD,Drama,1994
+"Professionals, The",DVD,Western,1966
+Protocol,DVD,Romantic Comedy,1984
+Pulp Fiction,DVD,Drama,1994
+"Pursuit of Happyness, The",DVD,Drama,2006
+Quantum of Solace,DVD,"[""Action"",""Adventure"",""Thriller""]",2008
+Quantum of Solace,DVD,"[""Action"",""Adventure"",""Thriller""]",2008
+"Quick and the Dead, The",DVD,Western,1995
+Quiz Show,DVD,Drama,1994
+R.V.,DVD,Comedy,2006
+Raging Bull,DVD,Biography,1980
+Rain Man,DVD,Drama,1988
+Raising Cain,DVD,Horror,1992
+Rat Pack The,DVD,Biography,1998
+Red Heat,DVD,Action,1988
+Reanimated,DVD,Family,2006
+Red Corner,DVD,Drama,1997
+Red River,DVD,Western,1948
+Red Skelton,DVD,"[""Comedy"",""Music"",""TV""]",1961
+Red Skelton Vol. 1,DVD,"[""Comedy"",""Music"",""TV""]",1961
+Red Skelton three 1/2 hour episodes,DVD,"[""Comedy"",""Music"",""TV""]",1961
+"Ref., The",DVD,Comedy,1994
+Reindeer Games,DVD,Action,2000
+Relative Strangers,DVD,Comedy,2006
+Rent,DVD,Musical,2005
+"Replacements, The",DVD,Comedy,2000
+Return to Me,DVD,Romance,2000
+Return to Neverland,DVD,Family,2002
+Ricochet,DVD,Drama,1991
+Riding the Bullet,DVD,Horror,2004
+Rising Sun,DVD,Drama,1993
+Risky Business,DVD,Comedy,1983
+Road House,DVD,Drama,1989
+Road to Perdition,DVD,Drama,2002
+Robin Hood Men in Tights,DVD,Comedy,1993
+Robin Hood Prince of Thieves,DVD,Adventure,1991
+Robots,DVD,Family,2005
+Rocky Balboa,DVD,Drama,2006
+Roman Holiday,DVD,Romantic Comedy,1953
+Ronin,DVD,Drama,1998
+"Rookie, The",DVD,Drama,1990
+Roxanne,DVD,Romantic Comedy,1987
+Rumor Has It,DVD,Comedy,2005
+"Run Down, The",DVD,Action,2003
+Runaway Bride,DVD,Romantic Comedy,1999
+Running with Scissors,DVD,Comedy,2006
+Rush Hour 2,DVD,Comedy,2001
+Rush Hour 3,DVD,Comedy,2007
+Sabrina,DVD,Romance,1995
+Sahara,DVD,Comedy,2005
+Samurai Jack the Premiere Movie,DVD,Family,2001
+Santa Claus III The Escape Clause,DVD,Family,2006
+Santa Claus is Coming to Town,DVD,Family,1970
+Saved,DVD,Comedy,2004
+Say it isn't So,DVD,Romantic Comedy,2001
+Scarface,DVD,Drama,1983
+Scary Godmother,DVD,Family,2010
+Scary Movie 3,DVD,Comedy,2003
+Scary Movie 4,DVD,Comedy,2006
+Scary Movie 4 Bonus Disk,DVD,Bonus Material,2006
+Scent of a Woman,DVD,Drama,1992
+Scooby-Doo,DVD,Family,2002
+Scooby-Doo's Original Mysteries,DVD,Family,1984
+"Score, The",DVD,Drama,2001
+"Scorpion King, The",DVD,Adventure,2002
+"Secret of Nimh, The",DVD,Family,1982
+Se7en,DVD,"[""Crime"",""Drama"",""Mystery""]",1995
+Sea of Love,DVD,Drama,1989
+Secondhand Lions,DVD,Drama,2003
+Secret Weapon,DVD,,
+Seeker The,DVD,Adventure,2007
+Serial Killers,DVD,Educational,1995
+"Shadow Rider, The",DVD,Western,1982
+"Shaggy Dog, The",DVD,Family,1959
+"Shaggy Dog, The",DVD,Family,2006
+Shakespeare in Love,DVD,Romantic Comedy,1998
+Shanghai Knights,DVD,Comedy,2003
+Shanghai Noon,DVD,Comedy,2000
+"Shawshank Redemption, The",DVD,Drama,1994
+Sherlock Holmes,Blu-Ray,"[""Action"",""Adventure"",""Crime"",""Mystery"",""Thriller""]",2009
+"Shining, The",DVD,"[""Drama"",""Horror""]",1980
+Shooter,DVD,Action,2007
+Short Circuit,DVD,Comedy,1986
+Show Girls,DVD,Drama,1999
+Shrek 2,DVD,Family,2004
+Shrek the Third,DVD,Family,2007
+Sicko,DVD,Documentary,2007
+Silver Bullet,DVD,Horror,1985
+Silverado,DVD,Western,1985
+"Simpsons, The",DVD,"[""Animation"",""Comedy"",""TV""]",1996
+"Simpsons, The",DVD,"[""Animation"",""Comedy"",""TV""]",1989
+Singin in the Rain,DVD,Musical,1952
+Sister Act,DVD,Comedy,1992
+Six Days/Seven Nights,DVD,Romantic Comedy,1998
+Sky High,DVD,Comedy,2005
+Sleepless in Seattle,DVD,Romance,1993
+Sleepy Hollow,DVD,"[""Fantasy"",""Horror"",""Mystery""]",1999
+Sliding Doors,DVD,Romance,1998
+Snatch,DVD,"[""Comedy"",""Crime""]",2000
+Snow White and the Huntsman,Blu-Ray,Drama,2012
+Snow White and the Seven Dwarfs,DVD,Family,1937
+Some Like it Hot,DVD,Romantic Comedy,1959
+Son of the Mask,DVD,Comedy,2005
+"Sound of Music, The",DVD,Musical,1965
+Speed,DVD,Action,1994
+Spider-Man 2,DVD,Action,2004
+Spider-man 3 Bonus DVD,DVD,Bonus Material,2007
+Spiderman vs. Doc Ock,DVD,Action,
+Spiderman the Return of the Green Goblin,DVD,Action,
+"Spiderwick Chronicles, The",DVD,"[""Adventure"",""Family"",""Fantasy""]",2008
+Splash,DVD,Romance,1984
+Spy Kids 3D: Game Over,DVD,Family,2003
+Star 80,DVD,Drama,1983
+Star Trek II the Wrath of Khan,DVD,Science Fiction,1982
+Star Wars I the Phantom Menace,DVD,Science Fiction,1999
+Star Wars III Revenge of the Sith,DVD,Science Fiction,2005
+Stardust,DVD,Fantasy,2007
+Stargate,DVD,Science Fiction,1994
+Starship Troopers,DVD,Science Fiction,1997
+"Stepford Wives, The",DVD,Horror,2004
+Step-Mom,DVD,Drama,1998
+Sting The,DVD,Comedy,1973
+Storm of the Century,DVD,Horror,1999
+"Story of Star Wars, The",DVD,Bonus Material,2002
+"Storyteller, The",DVD,"[""Adventure"",""Drama"",""Family"",""TV""]",1987 - 1989
+Straight Talk,DVD,Romantic Comedy,1992
+Stranger than Fiction,DVD,Comedy,2006
+Stuart Little,DVD,Family,1999
+Stuck on You,DVD,Comedy,2003
+Suddenly,DVD,Drama,1954
+Suicide Kings,DVD,Drama,1997
+Super Baby Geniuses 2,DVD,Family,2004
+Sweeney Todd,DVD,Musical,2007
+Sweet Home Alabama,DVD,Romantic Comedy,2002
+Sword and the Sorcerer,DVD,Fantasy,1982
+"Sword in the Stone, The",DVD,Family,1963
+Take the Lead,DVD,Romance,2006
+Talladega Nights,DVD,Comedy,2006
+Tarzan,DVD,Family,1999
+Tarzan & Jane,DVD,Family,2002
+Taxi,DVD,"[""Comedy"",""TV""]",1978 - 1983
+Teenage Mutant Ninja Turtles,DVD,"[""Action"",""Adventure"",""Comedy"",""Family"",""Science Fiction""]",1990
+Teenage Mutant Ninja Turtles 2,DVD,Family,1991
+Teenage Mutant Ninja Turtles 3,DVD,Family,1993
+That Old Feeling,DVD,Romance,1997
+Thelma & Louise,DVD,Adventure,1991
+"Thomas Crown Affair, The",DVD,Drama,1999
+Three Men and a Baby,DVD,Comedy,1987
+Three Musketeers animated,DVD,Adventure,
+Three Musketeers Disney's,DVD,Adventure,1993
+Three to Tango,DVD,Romantic Comedy,1999
+Til the Clouds Roll By,DVD,Romance,1946
+Time to Kill A,DVD,Drama,1996
+TMNT cgi,DVD,Family,2007
+To Die For,DVD,Comedy,1995
+To Kill a Mockingbird,Blu-Ray,Drama,1962
+Tom & Jerry,DVD,Family,1995
+Tom Sawyer,DVD,Adventure,
+Total Recall,DVD,Science Fiction,1990
+"Tourist, The",DVD,Action,2010
+Town & Country,DVD,Drama,2001
+Toy Story 3,Blu-Ray,"[""Animation"",""Adventure"",""Comedy"",""Family"",""Fantasy""]",2010
+Trading Places,DVD,Comedy,1983
+Transformers,DVD,Action,2007
+Transformers Revenge of the Fallen,DVD,Action,2009
+Transporter 2,DVD,Action,2005
+Transporter 3,DVD,Action,2008
+Muppet Treasure Island,DVD,Adventure,1996
+xXx: State of the Union,DVD,"[""Action"",""Adventure"",""Crime"",""Drama"",""Mystery"",""Thriller""]",2005
+"Triumph of Sherlock Holmes, The",DVD,Adventure,1935
+Troy,DVD,History,2004
+True Blood,Blu-Ray,"[""Drama"",""Fantasy"",""Mystery"",""TV""]",2008 - 2014
+True Crime,DVD,Drama,1999
+True Grit,Blu-Ray,Western,2010
+"Truth About Cats and Dogs, The",DVD,Romantic Comedy,1996
+"Tuxedo, The",DVD,Action,2002
+Twilight,DVD,Romance,2008
+Twilight Zone Fan Favorites,DVD,"[""Fantasy"",""Horror"",""Mystery"",""TV""]",1959
+Twilight Zone The Volume 2,DVD,"[""Fantasy"",""Horror"",""Mystery"",""TV""]",1959
+Twilight: Breaking Dawn,Blu-Ray,Romance,2011
+Twilight: Eclipse,Blu-Ray,Romance,2010
+Twilight: New Moon,Blu-Ray,Romance,2009
+Twins,DVD,Comedy,1988
+Two Weeks Notice,DVD,Romantic Comedy,2002
+U.S. Marshalls,DVD,Action,1998
+"Ugly Truth, The",Blu-Ray,Romantic Comedy,2009
+"Ultimate Avengers, The",DVD,Action,2006
+Unbreakable,DVD,Science Fiction,2000
+Under Siege,DVD,Action,1992
+Under Suspicion,DVD,Drama,2000
+Underdog,Blu-Ray,Comedy,2007
+Unfaithful,DVD,Drama,2002
+Unforgiven,DVD,Western,1992
+Unleashed,DVD,Drama,2005
+Van Helsing,DVD,"[""Action"",""Adventure"",""Fantasy""]",2004
+Vera Cruz,DVD,Western,1954
+Victor/Victoria,DVD,Romantic Comedy,1982
+Volunteers,DVD,Romantic Comedy,1985
+Walk the Line,DVD,Biography,2005
+Walking with Dinosaurs,DVD,History,1999
+Wall Street,DVD,Drama,1987
+Wall-E,DVD,Science Fiction,2008
+War of the Roses,DVD,"[""Comedy"",""Romance""]",1989
+"Water Horse, The",DVD,Fantasy,2007
+Wedding Crashers,DVD,Comedy,2005
+"Wedding Date, The",DVD,Romantic Comedy,2005
+Wedding Planner The,DVD,Romantic Comedy,2001
+West Side Story,DVD,Musical,1961
+What a Girl Wants,DVD,Romantic Comedy,2003
+What Happens in Vegas,DVD,Romantic Comedy,2008
+What Women Want,DVD,Romantic Comedy,2000
+Where Eagles Dare,DVD,Drama,1968
+While you were Sleeping,DVD,Romantic Comedy,1995
+Who Framed Roger Rabbit,DVD,Comedy,1988
+Who's Afriad of Virginia Wolf,DVD,Drama,1966
+Who's Harry Crumb?,DVD,Comedy,1989
+"Wild, The",DVD,Adventure,2006
+"Wild Thornberrys Movie, The",DVD,Adventure,2002
+Willow,DVD,Fantasy,1988
+Wimbledon,DVD,Romance,2004
+Wizard of Oz,DVD,Fantasy,1939
+Wizard of Oz The Muppets,DVD,Fantasy,2005
+Wonder Boys,DVD,Drama,2000
+Wonderful Wizard of Oz (animated),DVD,Fantasy,1987
+Working Girl,DVD,Romantic Comedy,1988
+X-Men,DVD,"[""Action"",""Adventure"",""Science Fiction""]",2002
+X-Men: United,DVD,Action,2003
+X-Men: Last Stand,DVD,"[""Action"",""Adventure"",""Fantasy""]",2006
+You Can't Take it With You,DVD,"[""Comedy"",""Drama"",""Romance""]",1938
+You Don't Mess with the Zohan,DVD,"[""Action"",""Comedy""]",2008
+Zack and Miri Make a Porno,DVD,"[""Comedy"",""Romance""]",2008
+Zathura: A Space Adventure,DVD,"[""Action"",""Adventure"",""Comedy"",""Family"",""Fantasy"",""Science Fiction""]",2005
+Ringling Brothers Zing Zang Zoom,DVD,Family,2010
+Zodiac,DVD,"[""Crime"",""Drama"",""History"",""Mystery"",""Thriller""]",2007
+Zoom,DVD,"[""Action"",""Adventure"",""Comedy"",""Family"",""Science Fiction""]",2006
+Zulu,DVD,"[""Drama"",""History"",""War""]",1964
+Lucy,Blu-Ray,Science Fiction,2014
+Rise of the Planet of the Apes,DVD,"[""Action"",""Drama"",""Science Fiction""]",2011
+Dawn of the Planet of the Apes,Blu-Ray,"[""Action"",""Adventure"",""Drama""]",2014
+Warm Bodies,DVD,"[""Romance"",""Comedy"",""Horror""]",2013
+Coming to America,DVD,"[""Romance"",""Comedy""]",1988
+Mister Roberts,DVD,"[""Drama"",""Comedy"",""War""]",1955
+"Whole Nine Yards, The",DVD,"[""Comedy"",""Crime""]",2000
+Ferris Bueller's Day Off,DVD,Comedy,1986
+Bedazzled,DVD,"[""Comedy"",""Fantasy""]",2000
+"Dark Tower, The",4K,"[""Action"",""Adventure"",""Fantasy""]",2017
+"Outrage, The",DVD,"[""Drama"",""Western"",""Crime""]",1964
+Rick and Morty Season 1,Blu-Ray,"[""Animation"",""Adventure"",""Comedy""]",2013
+"Princess and the Frog, The",Blu-Ray,"[""Animation"",""Adventure"",""Comedy""]",2009
+"10th Kingdom, The",Blu-Ray,"[""Adventure"",""Comedy"",""Family""]",2000
+"Lego Ninjaga Movie, The",4K,"[""Animation"",""Action"",""Adventure""]",2017
+"Hitman's Bodyguard, The",4K,"[""Action"",""Comedy""]",2017
+It,4K,"[""Drama"",""Horror"",""Thriller""]",2017
+It,Blu-Ray,"[""Drama"",""Horror"",""Mystery""]",1990
+Masterminds,Blu-Ray,"[""Action"",""Comedy"",""Crime""]",2016
+"Planes, Trains, and Automobiles",Blu-Ray,"[""Comedy""]",1987
+Rick and Morty Season 2,Blu-Ray,"[""Animation"",""Adventure"",""Comedy""]",2014
+Groundhog Day,Blu-Ray,"[""Comedy"",""Fantasy"",""Romance""]",1993
+"Girl on the Train, The",Blu-Ray,"[""Crime"",""Drama"",""Mystery""]",2016
+National Treasure,Blu-Ray,"[""Action"",""Adventure"",""Family""]",2004
+National Treasure 2: Book of Secrets,Blu-Ray,"[""Action"",""Adventure"",""Family""]",2007
+"Magnificent Seven, The",Blu-Ray,"[""Action"",""Adventure"",""Western""]",2016
+Pete's Dragon,Blu-Ray,"[""Action"",""Adventure"",""Comedy""]",2016
+"Proposal, The",Blu-Ray,"[""Comedy"",""Drama"",""Romance""]",2009
+"Abraham Lincoln, Vampire Hunter",Blu-Ray,"[""Action"",""Fantasy"",""Horror""]",2012
+"Secret Life of Pets, The",Blu-Ray,"[""Animation"",""Adventure"",""Comedy""]",2016
+Split,Blu-Ray,"[""Horror"",""Thriller""]",2016
+"Accountant, The",Blu-Ray,"[""Action"",""Crime"",""Drama""]",2016
+"BFG, The",Blu-Ray,"[""Adventure"",""Family"",""Fantasy""]",2016
+Spy,Blu-Ray,"[""Action"",""Comedy"",""Crime""]",2015
+Mechanic: Ressurrection,Blu-Ray,"[""Action"",""Adventure"",""Crime""]",2016
+X-Men: Apocalypse,Blu-Ray,"[""Action"",""Adventure"",""Science Fiction""]",2016
+Se7en,Blu-Ray,"[""Crime"",""Drama"",""Mystery""]",1995
+Friends,Blu-Ray,"[""Comedy"",""Romance"",""TV""]",1994
+I Dream of Jeannie,DVD,"[""Comedy"",""Family"",""Fantasy"",""TV""]",1965 - 1970
+Back to the Future 25th Anniversary Trilogy,Blu-Ray,"[""Adventure"",""Comedy"",""Science Fiction""]",1985
+Jason Bourne,Blu-Ray,"[""Action"",""Thriller""]",2016
+The Russians are Coming! The Russians are Coming!,Blu-Ray,"[""Comedy"",""War""]",1966
+"Breakfast Club, The",Blu-Ray,"[""Comedy"",""Drama""]",1985
+Big Hero 6,Blu-Ray,"[""Animation"",""Action"",""Adventure""]",2014
+Epic,Blu-Ray,"[""Animation"",""Adventure"",""Family""]",2013
+Spotlight,Blu-Ray,"[""Crime"",""Drama"",""History""]",2015
+Caddyshack,Blu-Ray,"[""Comedy"",""Sport""]",1980
+Saving Mr. Banks,Blu-Ray,"[""Biography"",""Comedy"",""Drama""]",2013
+Office Space,Blu-Ray,"[""Comedy""]",1999
+Dungeons & Dragons,DVD,"[""Animation"",""Adventure"",""Comedy"",""TV""]",1983 - 1985
+Frankenstein,Blu-Ray,"[""Drama"",""Horror"",""Science Fiction"",""TV""]",2004
+X-Men: Days of Future Past,Blu-Ray,"[""Action"",""Adventure"",""Science Fiction""]",2014
+Brave New World,DVD,"[""Drama"",""Science Fiction""]",1998
+1984,DVD,"[""Drama"",""Science Fiction""]",1956
+"Shining, The",DBD,"[""Drama"",""Horror""]",1980
+Anchorman: The Legend of Ron Burgundy,Blu-Ray,"[""Comedy""]",2004
+Beetlejuice,DVD,"[""Comedy"",""Fantasy""]",1988
+Beverly Hills Cop,DVD,"[""Action"",""Comedy"",""Crime""]",1984
+About Time,Blu-Ray,"[""Comedy"",""Drama"",""Fantasy""]",2013
+Jumanji,4K,"[""Action"",""Adventure"",""Family""]",1995
+"Big Country, The",DVD,"[""Romance"",""Western""]",1958
+"Bourne Trilogy, The",Blu-Ray,"[""Action"",""Mystery"",""Thriller""]",2002
+I am Legend,Blu-Ray,"[""Drama"",""Horror"",""Science Fiction""]",2007
+Lethal Weapon,DVD,"[""Action"",""Crime"",""Thriller""]",1987
+"Big Sick, The",Blu-Ray,"[""Comedy"",""Drama"",""Romance""]",2017
+Spider-Man 3,4K,"[""Action"",""Adventure"",""Science Fiction""]",2007
+Deadpool,Blu-Ray,"[""Action"",""Adventure"",""Comedy""]",2016
+Ex Machina,Blu-Ray,"[""Drama"",""Mystery"",""Science Fiction""]",2014
+Life,Blu-Ray,"[""Horror"",""Science Fiction"",""Thriller""]",2017
+Star Trek,4K,"[""Action"",""Adventure"",""Science Fiction""]",2009
+M*A*S*H,Blu-Ray,"[""Comedy"",""Drama"",""War""]",1970
+American Hustle,Blu-Ray,"[""Crime"",""Drama""]",2013
+"Great Race, The",Blu-Ray,"[""Action"",""Adventure"",""Comedy"",""Romance""]",1965
+Battle of the Sexes,Blu-Ray,"[""Biography"",""Comedy"",""Drama""]",2017
+American Made,Blu-Ray,"[""Action"",""Biography"",""Comedy""]",2017
+War for the Planet of the Apes,4K,"[""Action"",""Adventure"",""Drama""]",2017
+"Osiris Child, The",Blu-Ray,"[""Action"",""Adventure"",""Drama"",""Horror"",""Science Fiction"",""Thriller""]",2016
+Despicable Me,4K,"[""Animation"",""Adventure"",""Comedy"",""Family""]",2010
+Despicable Me 2,4K,"[""Animation"",""Adventure"",""Comedy"",""Family"",""Science Fiction""]",2013
+Blood Simple,Blu-Ray,"[""Crime"",""Drama"",""Thriller""]",1984
+Raising Arizona,Blu-Ray,"[""Comedy"",""Crime""]",1987
+Miller's Crossing,Blu-Ray,"[""Crime"",""Drama"",""Thriller""]",1990
+Fargo,Blu-Ray,"[""Crime"",""Drama"",""Thriller""]",1996
+American Graffiti,Blu-Ray,"[""Comedy"",""Drama""]",1973
+Chitty Chitty Bang Bang,Blu-Ray,"[""Adventure"",""Family"",""Fantasy"",""Musical""]",1968
+"Muppets Movie, The",Blu-Ray,"[""Adventure"",""Comedy"",""Family"",""Musical""]",1979
+Edward Scissorhands,Blu-Ray,"[""Drama"",""Fantasy"",""Romance""]",1990
+Buffy the Vampire Slayer,Blu-Ray,"[""Action"",""Comedy"",""Fantasy"",""Horror""]",1992
+"Martian, The",Blu-Ray,"[""Adventure"",""Drama"",""Science Fiction""]",2015
+Dreamgirls,Blu-Ray,"[""Drama"",""Music"",""Musical""]",2006
+Oliver and Company,DVD,"[""Animation"",""Adventure"",""Comedy"",""Family"",""Musical""]",1988
+"Simpsons Movie, The",Blu-Ray,"[""Animation"",""Adventure"",""Comedy""]",2007
+Superman the Movie,Blu-Ray,"[""Action"",""Adventure"",""Drama"",""Science Fiction""]",1978
+Superman the Movie,Blu-Ray,"[""Action"",""Adventure"",""Drama"",""Science Fiction""]",1978
+"Wizard of Oz, The",Blu-Ray,"[""Adventure"",""Family"",""Fantasy"",""Musical""]",1939
+"Wiz, The",Blu-Ray,"[""Adventure"",""Family"",""Fantasy"",""Musical""]",1978
+Two Mules for Sister Sara,Blu-Ray,"[""Adventure"",""Romance"",""War"",""Western""]",1970
+Joe Kidd,Blu-Ray,Western,1972
+High Plains Drifter,Blu-Ray,"[""Mystery"",""Western""]",1973
+Coogan's Bluff,Blu-Ray,"[""Action"",""Comedy"",""Crime"",""Thriller""]",1968
+"Beguiled, The",Blu-Ray,"[""Drama"",""Thriller"",""War""]",1971
+Play Misty for Me,Blu-Ray,Thriller,1971
+"Eiger Sanction, The",Blu-Ray,"[""Action"",""Crime"",""Thriller""]",1975
+Uncle Buck,Blu-Ray,Comedy,1989
+Fletch,Blu-Ray,"[""Comedy"",""Crime"",""Mystery""]",1985
+"Hobbit, The: An Unexpected Journey",Blu-Ray,"[""Adventure"",""Family"",""Fantasy""]",2012
+"Hobbit, The: The Desolation of Smaug",Blu-Ray,"[""Adventure"",""Fantasy""]",2013
+"Hobbit, The: The Battle of Five Armies",Blu-Ray,"[""Adventure"",""Fantasy""]",2014
+3rd Rock from the Sun,DVD,"[""Comedy"",""Family"",""Science Fiction""]",1996 - 2001
+Assume the Position 201 with Mr. Wuhl,DVD,"[""Comedy"",""History"",""Short""]",2007
+"SpongeBob Movie: Sponge Out of Water, The",DVD,"[""Animation"",""Adventure"",""Comedy"",""Family"",""Fantasy""]",2015
+Hungarian Rhapsody Queen Live in Budapest,DVD,"[""Documentary"",""Music""]",1987
+Weird Al Yankovic: The Ultimate Video Collection,DVD,"[""Comedy"",""Music""]",2003
+Spider-Man,Blu-Ray,"[""Action"",""Adventure"",""Science Fiction""]",2002
+Spider-Man 2,Blu-Ray,"[""Action"",""Adventure"",""Science Fiction""]",2004
+Spider-Man 3,Blu-Ray,"[""Action"",""Adventure"",""Science Fiction""]",2007
+"Mary Tyler Moore Show, The",DVD,Comedy,"1970 - 1973, 1975"
+Citizen Kane,DVD,"[""Drama"",""Mystery""]",1941
+"Andromeda Strain, The",DVD,"[""Action"",""Drama"",""Mini-series"",""Science Fiction"",""Thriller""]",2008
+Hondo,Blu-Ray,"[""Drama"",""Romance"",""War"",""Western""]",1953
+Once Upon a Time in the West,Blu-Ray,Western,1968
+True Grit,Blu-Ray,"[""Adventure"",""Drama"",""Western""]",1969
+Duets,DVD,"[""Comedy"",""Drama"",""Music"",""Romance""]",2000
+South Pacific,DVD,"[""Comedy"",""Drama"",""Musical"",""Romance"",""War""]",2001
+Cradle will Rock,DVD,"[""Drama""]",1999
+Calamity Jane,DVD,"[""Comedy"",""Musical"",""Romance"",""Western""]",1953
+Please Don't Eat the Daisies,DVD,"[""Comedy"",""Family"",""Romance""]",1960
+Love Me or Leave Me,DVD,"[""Biography"",""Drama"",""Music"",""Romance""]",1955
+Boardwalk Empire,Blu-Ray,"[""Crime"",""Drama"",""History""]",2010 - 2014
+"Big Bang Theory, The",DVD,"[""Comedy"",""Romance""]",2007
+"Big Bang Theory, The",Blu-Ray,"[""Comedy"",""Romance""]",2007
+"Book Thief, The",DVD,"[""Drama"",""War""]",2013
+Finding Nemo,DVD,"[""Animation"",""Adventure"",""Comedy"",""Family""]",203
+Ender's Game,Blu-Ray,"[""Action"",""Fantasy"",""Science Fiction""]",2013
+Manchester by the Sea,Blu-Ray,Drama,2016
+Bridget Jones's Diary,DVD,,2001
+`Zombieland,DVD,"[""Adventure"",""Comedy"",""Horror"",""Science Fiction""]",2009
+"Terminator, The",DVD,"[""Action"",""Science Fiction""]",1984
+"Woman in Black, The",Blu-Ray,,2012
+X-Men: First Class,Blu-Ray,"[""Action"",""Adventure"",""Science Fiction""]",2011
+Shallow Hal,DVD,"[""Comedy"",""Drama"",""Fantasy"",""Romance""]",2001
+"Aviator, The",DVD,"[""Biography"",""Drama"",""History""]",2004
+Blended,Blu-Ray,"[""Comedy"",""Romance""]",2014
+Frozen,Blu-Ray,"[""Animation"",""Adventure"",""Comedy"",""Family"",""Fantasy"",""Musical""]",2013
+Lego Batman: the Movie,Blu-Ray,"[""Animation"",""Action"",""Adventure"",""Family"",""Science Fiction""]",2013
+Colossal,Blu-Ray,"[""Action"",""Comedy"",""Drama"",""Fantasy"",""Science Fiction""]",2016
+Toy Story,Blu-Ray,"[""Animation"",""Adventure"",""Comedy"",""Family"",""Fantasy""]",1995
+Toy Story 2,Blu-Ray,"[""Animation"",""Adventure"",""Comedy"",""Family"",""Fantasy""]",1999
+Toy Story 3,Blu-Ray,"[""Animation"",""Adventure"",""Comedy"",""Family"",""Fantasy""]",2010
+Star Trek: Into Darkness,4K,"[""Action"",""Adventure"",""Science Fiction""]",2013
+Star Trek: Beyond,4K,"[""Action"",""Adventure"",""Science Fiction""]",2016
+Twilight,DVD,"[""Drama"",""Fantasy"",""Romance""]",2008
+Saving Silverman,DVD,"[""Action"",""Comedy"",""Crime"",""Romance""]",2001
+Little Black Book,DVD,"[""Comedy"",""Drama"",""Romance""]",2004
+Hexed,DVD,"[""Comedy"",""Thriller""]",1993
+Life without Dick,DVD,"[""Comedy"",""Crime"",""Romance""]",2002
+"Bodyguard, The",Blu-Ray,"[""Action"",""Drama"",""Music"",""Romance""]",1992
+Saboteur,Blu-Ray,"[""Thriller"",""War""]",1942
+Shadow of a Doubt,Blu-Ray,"[""Thriller""]",1943
+Rope,Blu-Ray,"[""Crime"",""Drama"",""Mystery"",""Thriller""]",1948
+Rear Window,Blu-Ray,"[""Mystery"",""Thriller""]",1954
+"Trouble with Harry, The",Blu-Ray,"[""Comedy"",""Mystery""]",1955
+"Man who Knew too Much, The",Blu-Ray,"[""Drama"",""Thriller""]",1956
+Vertigoe,Blu-Ray,"[""Mystery"",""Romance"",""Thriller""]",1958
+Psycho,Blu-Ray,"[""Horror"",""Mystery"",""Thriller""]",1960
+"Birds, The",Blu-Ray,"[""Drama"",""Horror"",""Mystery"",""Romance""]",1963
+Marnie,Blu-Ray,"[""Crime"",""Drama"",""Mystery"",""Romance"",""Thriller""]",1964
+Torn Curtain,Blu-Ray,"[""Thriller""]",1966
+Topaz,Blu-Ray,"[""Drama"",""Thriller""]",1969
+Frenzy,Blu-Ray,"[""Thriller""]",1972
+Family Plot,Blu-Ray,"[""Comedy"",""Thriller""]",1976
+Touch of Evil,Blu-Ray,"[""Crime"",""Drama"",""Film-Noir"",""Thriller""]",1958
+Dracula,Blu-Ray,"[""Fantasy"",""Horror""]",1931
+Frankenstein,Blu-Ray,"[""Drama"",""Horror"",""Science Fiction""]",1931
+Mummy,Blu-Ray,"[""Fantasy"",""Horror""]",1932
+"Invisible Man, The",Blu-Ray,"[""Horror"",""Science Fiction""]",1933
+Bride of Frankenstein,Blu-Ray,"[""Drama"",""Horror"",""Science Fiction""]",1935
+Dracula,Blu-Ray,"[""Horror""]",1941
+Phantom of the Opera,Blu-Ray,"[""Drama"",""Horror"",""Music"",""Romance"",""Thriller""]",1943
+Creature from the Black Lagoon,Blu-Ray,"[""Horror""]",1954
+"Letter to Elia, A",Blu-Ray,"[""Documentary""]",2010
+"Tree Grows in Brooklyn, A",Blu-Ray,"[""Drama"",""Romance""]",1945
+Boomerang,Blu-Ray,"[""Crime"",""Drama"",""Film-Noir"",""Romance""]",1947
+Pinky,Blu-Ray,"[""Drama""]",1949
+Panic in the Streets,Blu-Ray,"[""Crime"",""Drama"",""Film-Noir"",""Thriller""]",1950
+"Streetcar Named Desire, A",Blu-Ray,"[""Drama""]",1951
+Gentleman's Agreement,Blu-Ray,"[""Drama"",""Romance""]",1947
+Viva Zapata,Blu-Ray,"[""Biography"",""Drama"",""History""]",1952
+Man on a Tightrope,Blu-Ray,"[""Drama"",""Film-Noir"",""Thriller""]",1953
+On the Waterfront,Blu-Ray,"[""Crime"",""Drama"",""Thriller""]",1954
+East of Eden,Blu-Ray,"[""Drama""]",1955
+Baby Doll,Blu-Ray,"[""Drama""]",1956
+"Face in the Crowd, A",Blu-Ray,"[""Drama"",""Music""]",1957
+Wild River,Blu-Ray,"[""Drama"",""History"",""Romance""]",1960
+Splendor in the Grass,Blu-Ray,"[""Drama"",""Romance""]",1961
+America America,Blu-Ray,"[""Drama""]",1963
+Planet of the Apes,Blu-Ray,"[""Adventure"",""Science Fiction""]",1968
+Beneath the Planet of the Apes,Blu-Ray,"[""Action"",""Adventure"",""Science Fiction""]",1970
+Escape from the Planet of the Apes,Blu-Ray,"[""Action"",""Science Fiction""]",1971
+Conquest of the Planet of the Apes,Blu-Ray,"[""Action"",""Science Fiction""]",1972
+Battle for the Planet of the Apes,Blu-Ray,"[""Action"",""Science Fiction""]",1973
+Manhunter,Blu-Ray,"[""Crime"",""Horror"",""Mystery"",""Thriller""]",1986
+"Silence of the Lambs, The",Blu-Ray,"[""Crime"",""Drama"",""Thriller""]",1991
+"Silence of the Lambs, The",Blu-Ray,"[""Crime"",""Drama"",""Thriller""]",2001
+Bewitched,DVD,"[""Comedy"",""Family"",""Fantasy"",""Romance""]",1964 - 1972
+Blade Runner 2049,4K,"[""Drama"",""Mystery"",""Science Fiction"",""Thriller""]",2017
+Total Recall,Blu-Ray,"[""Action"",""Adventure"",""Mystery"",""Science Fiction"",""Thriller""]",2012
+Christine,Blu-Ray,Horror,1983
+Taxi Driver,Blu-Ray,"[""Crime"",""Drama""]",1976
+Close Encounters of the Third Kind,Blu-Ray,"[""Drama"",""Science Fiction""]",1977
+Raising Arizona,Blu-Ray,"[""Comedy"",""Crime""]",1987
+48 Hrs.,Blu-Ray,"[""Action"",""Comedy"",""Crime"",""Drama"",""Thriller""]",1982
+Apollo 13,4K,"[""Adventure"",""Drama"",""History""]",1995
+Captain America: The First Avenger,Blu-Ray,"[""Action"",""Adventure"",""Science Fiction""]",2011
+Captain America: The Winter Soldier,Blu-Ray,"[""Action"",""Adventure"",""Science Fiction"",""Thriller""]",2014
+Van Helsing,4K,"[""Action"",""Adventure"",""Fantasy""]",2004
+Game of Thrones,Blu-Ray,"[""Action"",""Adventure"",""Drama"",""Fantasy"",""Romance""]",2011
+"Rewrite, The",DVD,"[""Comedy"",""Romance""]",2014
+Jack Reacher: Never Go Back,Blu-Ray,"[""Action"",""Adventure"",""Crime"",""Mystery"",""Thriller""]",2016
+Chicago,Blu-Ray,"[""Comedy"",""Crime"",""Musical""]",2002
+"Secret Life of Walter Mitty, The",Blu-Ray,"[""Adventure"",""Comedy"",""Drama"",""Fantasy"",""Romance""]",2013
+"Music Man, The",DVD,"[""Comedy"",""Musical"",""Romance""]",1962
+Mother's Day,Blu-Ray,"[""Comedy"",""Drama""]",2016
+Arrival,Blu-Ray,"[""Drama"",""Mystery"",""Science Fiction"",""Thriller""]",2016
+Now You See Me 2,Blu-Ray,"[""Action"",""Adventure"",""Comedy"",""Crime"",""Mystery"",""Thriller""]",2016
+Little Shop of Horrors,Blu-Ray,"[""Comedy"",""Family"",""Musical"",""Romance"",""Science Fiction""]",1986
+Fantastic Beasts and where to Find Them,Blu-Ray,"[""Adventure"",""Family"",""Fantasy""]",2016
+Jurassic World,Blu-Ray,"[""Action"",""Adventure"",""Science Fiction""]",2015
+Passengers,Blu-Ray,"[""Drama"",""Science Fiction"",""Thriller""]",2016
+Sleepy Hollow,DVD,"[""Adventure"",""Drama"",""Fantasy"",""Horror"",""Mystery"",""Thriller""]",2013 - 2017
+Harry Potter and the Sorcerer's Stone,Blu-Ray,"[""Adventure"",""Family"",""Fantasy""]",2001
+Harry Potter and the Chamber of Secrets,Blu-Ray,"[""Adventure"",""Family"",""Fantasy"",""Mystery""]",2002
+Harry Potter and the Prisoner of Azkaban,Blu-Ray,"[""Adventure"",""Family"",""Fantasy"",""Mystery""]",2004
+Harry Potter and the Goblet of Fire,Blu-Ray,"[""Adventure"",""Family"",""Fantasy"",""Mystery""]",2005
+Harry Potter and the Order of the Phoenix,Blu-Ray,"[""Adventure"",""Family"",""Fantasy"",""Mystery""]",2007
+Harry Potter and the Half-Blood Prince,Blu-Ray,"[""Adventure"",""Family"",""Fantasy"",""Mystery""]",2009
+Harry Potter and the Deathly Hallows: Part I,Blu-Ray,"[""Adventure"",""Family"",""Fantasy"",""Mystery""]",2010
+Harry Potter and the Deathly Hallows: Part II,Blu-Ray,"[""Adventure"",""Drama"",""Fantasy"",""Mystery""]",2011
+"Sorcerer's Apprentice, The",DVD,"[""Action"",""Adventure"",""Family"",""Fantasy""]",2010
+Sleepy Hollow,Blu-Ray,"[""Fantasy"",""Horror"",""Mystery""]",1999
+It's a Wonderful Life,Blu-Ray,"[""Drama"",""Family"",""Fantasy""]",1946
+Galaxy Quest,Blu-Ray,"[""Adventure"",""Comedy"",""Science Fiction""]",1999
+"Andromeda Strain, The",Blu-Ray,"[""Science Fiction"",""Thriller""]",1971
+Logan,Blu-Ray,"[""Action"",""Drama"",""Science Fiction"",""Thriller""]",2017
+Rogue One: A Star Wars Story,Blu-Ray,"[""Action"",""Adventure"",""Science Fiction""]",2016
+John Wick: Chapter 2,Blu-Ray,"[""Action"",""Crime"",""Thriller""]",2017
+Percy Jackson: Sea of Monsters,Blu-Ray,"[""Adventure"",""Family"",""Fantasy"",""Thriller""]",2010
+Despicable Me 3,4K,"[""Action"",""Adventure"",""Animation"",""Comedy"",""Family"",""Science Fiction""]",2017
+Tin Man,Blu-Ray,"[""Adventure"",""Fantasy"",""Mini-Series"",""Science Fiction"",""Western""]",2007
+Valerian and the City of a Thousand Planets,4K,"[""Action"",""Adventure"",""Fantasy"",""Science Fiction""]",2017
+La La Land,Blu-Ray,"[""Comedy"",""Drama"",""Music"",""Musical"",""Romance""]",2016
+Beauty and the Beast,Blu-Ray,"[""Animation"",""Family"",""Fantasy"",""Musical"",""Romance""]",1991
+"Firm, The",Blu-Ray,"[""Drama"",""Mystery"",""Thriller""]",1993
+Going in Style,Blu-Ray,"[""Comedy"",""Crime""]",2017
+Gifted,Blu-Ray,Drama,2017
+11.22.63,Blu-Ray,"[""Drama"",""Mystery"",""Science Fiction"",""Thriller""]",2016
+Kingsman: The Golden Circle,Blu-Ray,"[""Action"",""Adventure"",""Comedy""]",2017
+Legend,Blu-Ray,"[""Biography"",""Crime"",""Drama"",""Thriller""]",2015
+Stephen King's The Shining,DVD,"[""Drama"",""Fantasy"",""Horror"",""Mini-Series"",""Thriller""]",1997
+Stephen King's It,DVD,"[""Drama"",""Horror"",""Mini-Series"",""Mystery"",""Thriller""]",1997
+Salem's Lot,DVD,"[""Drama"",""Horror"",""Mini-Series"",""Mystery"",""Thriller""]",2004
+Woman of the Year,DVD,"[""Comedy"",""Drama"",""Romance"",""Sport""]",1942
+Rain Man,DVD,Drama,1988
+Shaun of the Dead,Blu-Ray,"[""Comedy"",""Horror""]",2004
+Hot Fuzz,Blu-Ray,"[""Action"",""Comedy""]",2007
+Volunteers,DVD,Comedy,1985
+Mission: Impossible,Blu-Ray,"[""Action"",""Adventure"",""Thriller""]",1996
+Mission: Impossible II,Blu-Ray,"[""Action"",""Adventure"",""Thriller""]",2000
+Mission: Impossible III,Blu-Ray,"[""Action"",""Adventure"",""Thriller""]",2006
+Mission: Impossible - Ghost Protocol,Blu-Ray,"[""Action"",""Adventure"",""Thriller""]",2011
+Mission: Impossible - Rogue Nation,Blu-Ray,"[""Action"",""Adventure"",""Thriller""]",2015
+"Peanuts Movie, The",Blu-Ray,"[""Animation"",""Adventure"",""Comedy"",""Family""]",2015
+Parental Guidance,DVD,"[""Comedy"",""Family""]",2012
+"Trust, The",DVD,"[""Crime"",""Drama"",""Thriller""]",2016
+Kindergarten Cop,Blu-Ray,Comedy,1990
+Keeping up with the Joneses,Blu-Ray,"[""Action"",""Comedy""]",2016
+Live by Night,Blu-Ray,"[""Action"",""Crime"",""Drama"",""Thriller""]",2016
+Men in Black,Blu-Ray,"[""Adventure"",""Comedy"",""Family"",""Mystery"",""Science Fiction""]",1997
+Men in Black II,Blu-Ray,"[""Adventure"",""Comedy"",""Family"",""Mystery"",""Science Fiction""]",2002
+Men in Black 3,Blu-Ray,"[""Action"",""Adventure"",""Comedy"",""Family"",""Science Fiction""]",2012
+Horrible Bosses,Blu-Ray,"[""Comedy"",""Crime""]",2011
+Central Intelligence,Blu-Ray,"[""Action"",""Comedy"",""Crime""]",2016
+Strangers on a Train,Blu-Ray,"[""Crime"",""Film-Noir"",""Thriller""]",1951
+Hidden Figures,Blu-Ray,"[""Biography"",""Drama"",""History""]",2016
+"Founder, The",Blu-Ray,"[""Biography"",""Drama"",""History""]",2016
+How the Grinch Stole Christmas!,Blu-Ray,"[""Animation"",""Comedy"",""Family"",""Fantasy"",""Musical""]",1966
+"Fisher King, The",Blu-Ray,"[""Comedy"",""Drama"",""Fantasy""]",1991
+My Bodyguard,Blu-Ray,"[""Comedy"",""Drama"",""Family""]",1980
+Unforgiven,Blu-Ray,"[""Drama"",""Western""]",1992
+"Outlaw Josie Wales, The",Blu-Ray,Western,1976
+Jupiter Ascending,4K,"[""Action"",""Adventure"",""Science Fiction""]",2015
+Assassin's Creed,Blu-Ray,"[""Action"",""Adventure"",""Fantasy"",""Science Fiction""]",2016
+"Other Guys, The",Blu-Ray,"[""Action"",""Comedy"",""Crime""]",2010
+John Wick,DVD,"[""Action"",""Crime"",""Thriller""]",2014
+Smokey and the Bandit,Blu-Ray,"[""Action"",""Comedy""]",1977
+Baby Driver,Blu-Ray,"[""Action"",""Crime"",""Music"",""Thriller""]",2017
+Doctor Strange,Blu-Ray,"[""Action"",""Adventure"",""Fantasy"",""Science Fiction""]",2016
+Bedtime Story,DVD,Comedy,1964
+Jurassic Park,Blu-Ray,"[""Adventure"",""Science Fiction"",""Thriller""]",1993
+Jurassic Park: The Lost World,Blu-Ray,"[""Action"",""Adventure"",""Science Fiction""]",1997
+Jurassic Park III,Blu-Ray,"[""Action"",""Adventure"",""Science Fiction"",""Thriller""]",2001
+Super 8,Blu-Ray,"[""Mystery"",""Science Fiction"",""Thriller""]",2011
+Quantum Leap,Blu-Ray,"[""Action"",""Adventure"",""Drama"",""Mystery"",""Science Fiction""]",1989 - 1993
+Birdman or the Unexplained Virtue of Ignorance,Blu-Ray,"[""Comedy"",""Drama""]",2014
+"Bucket List, The",DVD,"[""Adventure"",""Comedy"",""Drama""]",2007
+Grudge Match,DVD,"[""Comedy"",""Drama"",""Sport""]",2013
+About Schmidt,DVD,"[""Comedy"",""Drama""]",2002
+Grumpy Old Men,DVD,"[""Comedy"",""Drama"",""Romance""]",1993
+Grumpier Old Men,DVD,"[""Comedy"",""Romance""]",1995
+We're the Millers,Blu-Ray,"[""Comedy"",""Crime""]",2013
+Sherlock Holmes,Blu-Ray,"[""Action"",""Adventure"",""Crime"",""Mystery"",""Thriller""]",2009
+Sherlock Holmes: A Game of Shadows,Blu-Ray,"[""Action"",""Adventure"",""Crime"",""Mystery"",""Thriller""]",2009
+Warcraft,Blu-Ray,"[""Action"",""Adventure"",""Fantasy""]",2016
+Knight and Day,DVD,"[""Action"",""Comedy"",""Romance""]",2010
+Now you see Me,Blu-Ray,"[""Crime"",""Mystery"",""Thriller""]",2013
+Treasure Island,Blu-Ray,Adventure,2012
+Daddy's Home,Blu-Ray,Comedy,2015
+Daddy's Home II,Blu-Ray,Comedy,2017
+Mork & Mindy,DVD,"[""Comedy"",""Family"",""Science Fiction""]",1978 - 1982
+"Disaster Artist, The",Dlu-Ray,"[""Biography"",""Comedy"",""Drama""]",2017
+Grease,Blu-Ray,"[""Musical"",""Romance""]",1978
+Modern Family,DVD,"[""Comedy"",""Romance""]",2009
+"Usual Suspects, The",Blu-Ray,"[""Crime"",""Mystery"",""Thriller"",""""]",1995
+"Greatest Showman, The",4K,"[""Biography"",""Drama"",""Musical"",""""]",2017
+"Terminator, The",Blu-Ray,"[""Action"",""Science Fiction""]",1984
+Incredibles 2,4K,"[""Animation"",""Action"",""Adventure"",""Comedy"",""Family"",""Science Fiction""]",2018
+"Meg, The",4K,"[""Action"",""Horror"",""Science Fiction"",""Thriller""]",2018
+Sorry to Bother You,Blu-Ray,"[""Comedy"",""Fantasy"",""Science Fiction""]",2018
+Anchors Aweigh,DVD,"[""Comedy"",""Fantasy"",""Music"",""Musical"",""Romance"",""War""]",1945
+Enough Said,Blu-Ray,"[""Comedy"",""Drama"",""Romance""]",2013
+Killer Elite,DVD,"[""Action"",""Crime"",""Thriller""]",2011
+"House with a Clock in its Walls, The",4K,"[""Comedy"",""Family"",""Fantasy"",""Horror"",""Mystery"",""Sci-Fi"",""Thriller""]",2018
+Christmas Vacation,Blu-Ray,"[""Comedy"",""""]",1989
+Walking Tall,Blu-Ray,"[""Action"",""Crime"",""Drama"",""Thriller""]",1973
+Walking Tall Part II,Blu-Ray,"[""Action"",""Biography"",""Crime"",""Drama"",""Thriller""]",1975
+Final Chapter: Walking Tall,Blu-Ray,"[""Action"",""Crime"",""Drama""]",1977
+Walking Tall,Blu-Ray,"[""Action"",""Crime"",""""]",2004
+Little Big Man,Blu-Ray,"[""Adventure"",""Comedy"",""Drama"",""Western""]",1970
+BlackkKlansman,4K,"[""Biography"",""Crime"",""Drama""]",2018
+Robocop,Blu-Ray,"[""Action"",""Crime"",""Science Fiction"",""Thriller"",""""]",1987
+"Box Trolls, The",Blu-Ray,"[""Animation"",""Adventure"",""Comedy"",""Family"",""Fantasy""]",2014
+Undercover Grandpa,DVD,"[""Action"",""Comedy"",""Family""]",1917
+"Extra Man, The",DVD,"[""Comedy""]",2010
+"Anniversary Party, The",DVD,"[""Comedy"",""Drama"",""Romance""]",2001
+Murder on the Orient Express,4K,"[""Crime"",""Drama"",""Mystery""]",2017
+All the President's Men,Blu-Ray,"[""Biography"",""Drama"",""History"",""Thriller""]",1976
+"South Park: Bigger, Longer & Uncut",Blu-Ray,"[""Animation"",""Comedy"",""Fantasy"",""Musical""]",1999
+Shrek the Musical,DVD,"[""Comedy"",""Family"",""Fantasy"",""Musical""]",2013
+Victor Frankenstein,Blu-Ray,"[""Drama"",""Horror"",""Science Fiction"",""Thriller""]",2013
+District 9,Blu-Ray,"[""Science Fiction"",""Thriller""]",2009
+"Jungle Book, The",Blu-Ray,"[""Adventure"",""Drama"",""Family"",""Fantasy""]",2016
+Papillon,Blu-Ray,"[""Biography"",""Crime"",""Drama""]",1973
+Papillon,Blu-Ray,"[""Crime"",""Drama"",""Mystery"",""Thriller""]",2017
+Dr. Seuss' the Grinch,4K,"[""Animation"",""Comedy"",""Family"",""Fantasy"",""Musical""]",2018
+Bohemian Rhapsody,4K,"[""Biography"",""Drama"",""Music""]",2018
+Bohemian Rhapsody,4K,"[""Biography"",""Drama"",""Music""]",2018
+Ralph Breaks the Internet,4K,"[""Animation"",""Adventure"",""Comedy"",""Family"",""Fantasy""]",2018
+Ralph Breaks the Internet,4K,"[""Animation"",""Adventure"",""Comedy"",""Family"",""Fantasy""]",2018
+Wreck-It Ralph,4K,"[""Animation"",""Adventure"",""Comedy"",""Family"",""Fantasy""]",2012
+Wind River,Blu-Ray,"[""Crime"",""Drama"",""Mystery"",""Thriller""]",2017
+Dirty Dancing,Blu-Ray,"[""Drama"",""Music"",""Romance""]",1987
+Dirty Rotten Scoundrels,Blu-Ray,"[""Comedy"",""Crime""]",1988
+Bull Durham,Blu-Ray,"[""Comedy"",""Romance"",""Sport""]",1988
+Unforgiven,4K,"[""Drama"",""Western""]",1992
+Rambo: First Blood,4K,"[""Action"",""Adventure""]",1982
+Stand by Me,Blu-Ray,"[""Adventure"",""Drama""]",1986
+Breakfast at Tiffany's,DVD,"[""Comedy"",""Drama"",""Romance""]",1961
+Funny Face,DVD,"[""Comedy"",""Musical"",""Romance""]",1957
+My Fair Lady,DVD,"[""Drama"",""Family"",""Musical"",""Romance""]",1964
+Paris when it Sizzles,DVD,"[""Comedy"",""Romance""]",1964
+Roman Holiday,DVD,"[""Comedy"",""Romance""]",1955
+Sabrina,DVD,"[""Comedy"",""Drama"",""Romance""]",1954
+War and Peace,DVD,"[""Drama"",""Romance"",""War""]",1956
+Castle Rock,DVD,"[""Drama"",""Horror"",""TV""]",2018
+Kate & Leopold,Blu-Ray,"[""Comedy"",""Fantasy"",""Romance""]",2001
+French Kiss,Blu-Ray,"[""Comedy"",""Drama"",""Romance""]",1995
+You've got Mail,Blu-Ray,"[""Comedy"",""Drama"",""Romance""]",1998
+"Big Chill, The",Blu-Ray,"[""Comedy"",""Drama""]",1983
+Shop Around the Corner,DVD,"[""Comedy"",""Drama"",""Romance""]",1940
+Mission Impossible - Fallout,Blu-Ray,"[""Action"",""Adventure"",""Thriller""]",2018
+M*A*S*H,DVD,"[""Comedy"",""Drama"",""War""]",1972 - 1983
+"Incredibles, The",4K,"[""Animation"",""Action"",""Adventure"",""Family""]",2004
+"Alamo, The",DVD,"[""Adventure"",""Drama"",""History"",""War"",""Western""]",1960
+"Big Trail, The",DVD,"[""Adventure"",""Romance"",""Western""]",1930
+"Comancheros, The",DVD,"[""Action"",""Adventure"",""Romance"",""Western""]",1961
+"Horse Soldiers, The",DVD,"[""Adventure"",""Romance"",""War"",""Western""]",1959
+Legend of the Lost,DVD,"[""Adventure"",""Drama""]",1957
+North to Alaska,DVD,"[""Comedy"",""Romance"",""Western""]",1960
+"Undefeated, The",DVD,"[""Western""]",1969
+"Muppet Show, The",DVD,"[""Comedy"",""Family"",""Music""]",1976 - 1981
+Shazam!,4K,"[""Action"",""Adventure"",""Comedy"",""Fantasy""]",2019
+Spider-Man: Into the Spider-Verse,4K,"[""Animation"",""Action"",""Adventure"",""Family"",""Science Fiction""]",2018
+Spider-Man: Into the Spider-Verse,4K,"[""Animation"",""Action"",""Adventure"",""Family"",""Science Fiction""]",2018
+"Imitation Game, The",Blu-Ray,"[""Biography"",""Drama"",""Thriller"",""War""]",2014
+One Flew Over the Cuckoo's Nest,DVD,"[""Drama""]",1975
+Field of Dreams,4K,"[""Drama"",""Family"",""Fantasy"",""Sport""]",1989
+"Star is Born, A",4K,"[""Drama"",""Music"",""Romance""]",2018
+"Star is Born, A",4K,"[""Drama"",""Music"",""Romance""]",2018
+Apocalypse Now,4K,"[""Drama"",""Mystery"",""War""]",1979
+Fifty Shades of Grey,Blu-Ray,"[""Drama"",""Romance"",""Thriller""]",2015
+Fifty Shades Darker,Blu-Ray,"[""Drama"",""Romance""]",2017
+Fifty Shades Freed,Blu-Ray,"[""Drama"",""Romance"",""Thriller""]",2018
+"Birdcage, The",Blu-Ray,"[""Comedy""]",1996
+Goosebumps,Blu-Ray,"[""Adventure"",""Comedy"",""Family"",""Fantasy"",""Horror""]",2015
+Beetlejuice,Blu-Ray,"[""Comedy"",""Fantasy""]",1988
+Stand by Me,4K,"[""Adventure"",""Drama""]",1986
+"Dukes of Hazzard, The",DVD,"[""Comedy""]",2005
+Starsky & Hutch,DVD,"[""Comedy"",""Crime""]",2004

@@ -24,6 +24,7 @@ namespace FileExample
         {
             // Temporarily hardwired for testing purposes.
             _FileName = @"movies.txt";
+            //_FileName = @"videos.json";
 
             _Movies = new MovieList(_FileName);
         }
@@ -39,16 +40,16 @@ namespace FileExample
             // binding until after the list is loaded
             // the binding settings need to be made
             // here instead of in the designer.
-            gridMovies.Columns[0].HeaderText = "Title";
+            gridMovies.Columns[0].HeaderText = Properties.Resources.TITLE_COL_CAPTION;
             gridMovies.Columns[0].Width = 380;
 
-            gridMovies.Columns[1].HeaderText = "Format";
+            gridMovies.Columns[1].HeaderText = Properties.Resources.FORMAT_COL_CAPTION;
             gridMovies.Columns[1].Width = 50;
 
-            gridMovies.Columns[2].HeaderText = "Genre";
+            gridMovies.Columns[2].HeaderText = Properties.Resources.GENRE_COL_CAPTION;
             gridMovies.Columns[2].Width = 110;
 
-            gridMovies.Columns[3].HeaderText = "Released";
+            gridMovies.Columns[3].HeaderText = Properties.Resources.RELEASE_COL_CAPTON;
             gridMovies.Columns[3].Width = 60;
         }
 
@@ -79,7 +80,7 @@ namespace FileExample
             // Now save the contents of the file.
             _Movies.WriteAll();
 
-            MessageBox.Show("Save completed successfully.");
+            MessageBox.Show(Properties.Resources.MSG_LOAD_SUCCESS);
         }
     }
 }
