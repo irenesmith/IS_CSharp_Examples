@@ -4,6 +4,9 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Newtonsoft;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Bson;
 
 namespace FileExample
 {
@@ -39,7 +42,7 @@ namespace FileExample
                         StringBuilder stringOut = new StringBuilder(m.Title);
                         stringOut.Append("\t" + m.MediaFormat);
                         stringOut.Append("\t" + m.Genre);
-                        stringOut.Append("\t" + m.Year);
+                        stringOut.Append("\t" + m.ReleaseYear);
                         writer.WriteLine(stringOut);
                     }
                     
@@ -65,12 +68,13 @@ namespace FileExample
                     // Assign the column values
                     // to the properties of a
                     // movie object.
-                    Movie m = new Movie();
-                    m.Title = columns[_TitleColumn];
-                    m.MediaFormat = columns[_FormatColumn];
-                    m.Genre = columns[_GenreColumn];
-                    m.Year = columns[_YearColumn];
-
+                    Movie m = new Movie
+                    {
+                        Title = columns[_TitleColumn],
+                        MediaFormat = columns[_FormatColumn],
+                        Genre = columns[_GenreColumn],
+                        ReleaseYear = columns[_YearColumn]
+                    };
                     // Add the movie to list.
                     Items.Add(m);
                 }
